@@ -1,0 +1,2290 @@
+@NOUNS
+cup
+'leaf','sheet of paper'
+
+utom
+'stone'
+
+ɲegɨr 
+'stick'
+
+numbat
+'dog'
+
+rowem
+'tree','berry'
+
+cus
+'leaves'
+
+numbau
+'dogs'
+
+ɲegu
+'sticks'
+
+butum 
+'walking stick'
+
+orubaisi cus,orubaisi cu`us
+'pile of leaves','many leaves','more than four leaves'
+
+orubaipi rowep
+'many berries'
+
+giyec cok ɲegu
+'sticks'
+
+# ########
+@SMALL AND BIG
+# ########
+
+cokupi cup
+'small leaf'
+
+cokumi utom
+'small stone'
+
+cokuti numbat
+'small dog'
+
+cokwipi rowep
+'small berry'
+
+orubaisi cokusi cus
+'pile of two small leaves','pile of small papers'
+
+orubaiberi cokuberi utaber
+'many small stones'
+
+mani caukoberi utaberi
+'(a)nd small stones'
+
+dɨbeti numbat
+'big dog'
+
+dɨbemi utom
+'big rock'
+
+# #######
+@ NUMBERS
+# #######
+
+@ ONE
+uta berɨn
+'one stone'
+
+atup cup,cup atup
+'one leaf'
+
+hatuk cup
+'one leaf'
+
+hatum utom
+'one rock'
+
+hatum rowem
+'one berry'
+
+@ TWO
+biəs cus
+'two leaves'
+
+biəber atum utaber
+'two stones'
+
+biyec ɲegu,ɲegu biyec
+'two sticks'
+
+biep rowep
+'two berries'
+
+biyog numbau
+'two dogs'
+
+biyog cokubi numbau
+'two small dogs'
+
+biəs cokusi cus
+'two small leaves'
+
+biəber cokuberi utaber
+'two small stones'
+
+@ THREE
+bisatuk cus
+'three sheets of paper'
+
+@ FOUR
+numbatis cus
+'four sheets of paper'
+
+mbatiber utaber
+'four stones'
+
+(nu)mbati numbau
+'four dogs'
+
+numbatis rowep
+'four berries'
+
+# ########
+@ DEICTICS
+# ########
+berəhe biti numbat
+'this dog here'
+
+thani edɨbiti numbat
+'that dog there'
+
+cokuti umaiti numbat
+'white dog in Lise's hand'
+
+ro sip rowep
+'this is a berry'
+
+# ##################
+@ COLORS AND CONJUNCTIONS
+# ##################
+umaisi cu`us sani umaiti numbat
+'white dog on/and white paper'
+
+numbat thani cup
+'dog and paper'
+
+pauhi rowep pani auhwi aropa hani pauhi cup
+'red berries and cloth and paper'
+
+pauhwhi cup
+'red paper'
+
+auhwi aropa
+'red cloth'
+
+atum mauhi rowem
+'one red berry'
+
+rowem mani cup
+'berry and leaf'
+
+cokuti numbat tanin cup
+'small dog and leaf'
+
+cup pani numbat
+'leaf and dog'
+
+hatum rowem mani biəber utaber
+'one fruit and two stones'
+
+biəber utaber bani hatum rowem
+'two stones and one fruit'
+
+ɲegɨr ɲani rowem
+'stick and fruit'
+
+roagiɲegɨr
+'stick of tree'
+
+umaipi cup
+'white paper'
+
+umaimi utom
+'white stone'
+
+akitohuipi cup
+'yellow paper'
+
+hauhi arupa
+'red paper'
+
+umaihi arupa
+'white material'
+
+berəhəbihi arupa
+'black material'
+
+berəhəbipi cup
+'black paper'
+
+abumbiti numbat
+'brown dog'
+
+berəbiti numbat
+'black dog'
+
+# ##########
+@ POSSESSION
+# ##########
+lise i arupa
+'the cloth of lise'
+
+lise okokwi arupa,lise okopwi arupa
+'the cloth of lise'
+
+# ########
+@ VERBS
+# ########
+lise wertu
+'lise stands'
+
+lise kwapwe
+'lise sits'
+
+ei yapwe
+'i sit'
+
+ɲe ɲeatu
+'you stand'
+
+ei yeatu
+'i stand'
+
+ohobiyo weatu
+'we two stand'
+
+ɲegɨr ɲetem
+'the stick sits'
+
+lise kwapwe
+'lise sits (on the table)'
+
+lise oicup,lise kwecup
+'lise lies on the table'
+
+cup otem
+'the leaf is on the table'
+
+numbat teatu
+'the dog stands (on the table)'
+
+numbat tapwe
+'the dog sits on the table'
+
+numbat teicu
+'the dog lies on its side'
+
+utom motem
+'the rock is on the table'
+
+cup otem
+'the leaf is on the table'
+
+# #########
+@ KINSHIP
+# #########
+babwen
+'grandfather'
+
+asakip
+'granddaughter'
+
+barahanin
+'grandson'
+
+nidawik
+'daughter'
+
+barahaicic
+'grandcildren'
+
+# ##########
+@ PHRASES
+# ##########
+ɲowosik
+'how are you?'
+
+wawiget
+'afternoon'
+
+yene uprau mek
+'thank you'
+
+ekimbaraim
+'my language'
+
+epokimbaraim 
+'your language'
+
+anang kapaini baraim
+'he speaks a different language'
+
+ɲekɨrɨ pwe umbotom baraim ɲakɨri utom momam 
+'how do you say "stone" in your language?'
+
+gamum nɨkɨrien
+'say it again'
+
+wosik
+'good'
+
+nyekɨri tree momam
+'what is tree'
+
+# #######
+@ ???
+# #######
+
+orubaiberi cokuberi utaber
+'pile of small stones'
+
+cokoimi ɲegu
+'very long stick' #Why is cokoimi being applied here?
+
+bəraim jirɨk
+'UNKNOWN'
+
+################2
+# ANTH 5401
+# Field Methods
+# Spring 2015, UVa
+
+@NOUNS
+numbotik,nombotik
+'yesterday'
+
+dəuk,dəok
+'today'
+
+nuhut
+'tomorrow'
+
+bien
+'day after tomorrow'
+
+mokədai
+'right now'
+
+ecau
+'woolen string bag'
+
+wak
+'no'
+
+utaber
+'stones'
+
+ecaurux
+'woolen string bags'
+
+@THREE
+.yegasɨtɨk e.caurux
+'three string bags'
+
+@FOUR
+numbatiges e.caurux
+'four woolen string bags'
+
+@VERBS
+wosik momənek
+'did you understand?'
+
+ei əmənek
+'I understand'
+
+eəpehip məmənek
+'we understand'
+
+yasu ecau,ei yasu ecau
+'I have the bag'
+
+əgədecau bərəhəbigi gani urobaihwi suruP
+'this black bag has many colors'
+
+micael nəneməp yəpogəni worigɨn
+'micael made good food for us'
+
+micael nəneme yəpogəni worigɨn
+'micael made good food for me'
+
+micael nənemok yəpogəni worigɨn
+'micael made good food for her'
+
+micael nənemən yəpogəni worigɨn
+'micael made good food for him'
+
+nənə worigɨn
+'he made food'
+
+micael nuhut nənema worigɨn,micael nuhut nənəma worigɨn
+'micael will make good for us tomorrow'
+
+numbat tapwe
+'the dog sits'
+
+numbat nuhut tupwe
+'the dog will sit tomorrow'
+
+numbat teatu
+'the dog stands'
+
+ei yeatu
+'i stand'
+
+ɲe ɲeatu
+'you stand'
+
+yoyo kweatu
+'yoyo stands'
+
+yoyo kwapwe
+'yoyo is sitting'
+
+ei yapwe
+'i sit'
+
+ei nuhut ipwe
+'i will stay tomorrow'
+
+ɲe ɲapwe
+'you sit'
+
+nuhut ɲupwe
+'you will stay tomorrow'
+
+yoyo dok kwapwe
+'yoyo sits today'
+
+yoyo nuhut kupwe
+'yoyo will stay tomorrow'
+
+micael dok napwe
+'micael sits today'
+
+nuhut napwe
+'he will sit tomorrow'
+
+yoyo kweatu kwani numbat
+'yoyo and the dog stand'
+
+nuhut numbat teatu
+'tomorrow the dog is standing'
+
+ei nuhut yetu,ei nuhut yətu
+'i will stand tomorrow'
+
+ɲe nuhut ɲetu,ɲe nuhut ɲətu
+'thou shalt stand tomorrow'
+
+omokədai mark neatu
+'mark stands'
+
+mark nuhut cyopuk neatu
+'mark will also stand tomorrow'
+
+mark nuhut neatu
+'mark will stand tomorrow'
+
+mark dok cyopuk neatu
+'mark will also stand tomorrow'
+
+əpakim baraim gijørøk dəuk
+'our discussion today is over'
+
+@POSSESSIVES
+ekigecau
+'my string bag'
+
+ɲakigecau
+'thy string bag'
+
+ənənigecau
+'his string bag'
+
+okokwigecau
+'her string bag'
+
+ohokwigecau
+'our string bag'
+
+ipeihip ipəpwigecau
+'string bag of all of you'
+
+ipəbiəm ipəpwigecau
+'your (2) string bag'
+
+omombiəm momigecau
+'their string bag'
+
+omombimətəm omomigecau
+'their (3) string bag'
+
+ohohwigecau
+'one ladies bag'
+
+owowigecau
+'two ladies bag'
+
+owobio owowigecau
+'the two ladies their bag','this bag belongs to the two ladies'
+
+erəməm hani erəmago ececigecau
+'the ladies and mens bag'
+
+micael ənənigecau
+'micaels string bag'
+
+@DEICTICS
+apudecup
+'this paper'
+
+asudecus
+'these papers'
+
+əgədecau
+'this bag'
+
+undautom
+'this stone'
+
+urobebi utaber
+'many stones'
+
+əberɨdɨ utaber
+'these stones'
+
+###############3
+@NOUN
+əberisglas
+'glass','glass of water'
+
+əsidək
+'this'
+
+@DEIXIS
+əberisglas əsidək
+'this (is a) glass of water'
+
+əberisglas sasidək
+'that (is a) glass of water'
+
+əgidə bog
+'this pen'
+
+gagidə bog
+'that pen'
+
+əpudə cup
+'this paper'
+
+papidə cup,papidəi cup
+'that paper'
+
+bog gani glas
+'pen and glass'
+
+glas sani bog
+'glass and pen'
+
+bogəs sani glas
+'pens and glass'
+
+orubaisi glas
+'more than one glass'
+
+ki atin,hatin ki
+'one key'
+
+orubaiti kihəs
+'many keys'
+
+biec kihəs
+'two keys'
+
+numbatic kihəs
+'four keys'
+
+@NOUN
+əberber ganiworɨb
+'water in river'
+
+worɨb
+'river'
+
+worɨbis
+'rivers'
+
+biəbis worɨbis
+'two rivers'
+
+bog
+'pen','wooden utensil'
+
+bogəs
+'pens'
+
+wis
+'hand'
+
+atɨs wis
+'one hand'
+
+biəs wis
+'two hands'
+
+əsidə wis
+'this hand'
+
+sasidə wis
+'that hand'
+
+rəgɨr 
+'arm'
+
+rəgɨr ɲani wis
+'arm and hand'
+
+rogu
+'arms'
+
+biyec rogu
+'two arms'
+
+ənɨs wis sani ənɨs wis
+'hand and other hand'
+
+atɨs wis
+'one hand'
+
+biyec rogu cyani bog
+'two arms and pen'
+
+əgɨsidə bogəs cyourɨm cus əgɨsi bogəs
+'these are pens for writing on paper'
+
+ekis wis sani ənənis wis,ekis wis sani ananis wis
+'my hand and his hand'
+
+barahən
+'grandson'
+
+barahaicic
+'two or more grandcildren'
+
+@FAMILY
+hannah kwapwe urupat
+'hannah is at home'
+
+hannah dok kwapwe urupat
+'hannah is at home right now'
+
+ellie napwe urupat
+'ellie is at home right now'
+
+ellie numbotik napwe urupat
+'ellie was home yesterday'
+
+hannah numbotik kwapwe urupat
+'hannah was at home yesterday'
+
+ellie napwe urupat nani hannah
+'ellie and hannah are home'
+
+hannah kwapwe urupat kwani ellie
+'hannah and ellie are home'
+
+hannah ellie ənənik mohokwik
+'hannah is ellie's sister'
+
+ellie ananik mohokwik hannah,ellie ənənik mohokwik hannah
+'ellie is hannah's brother','ellie his sister is hannah'
+
+hanna okokwi mohunin ellie
+'ellie is hannah's brother'
+
+ɲək ekinbabwen
+'thou art my grandfather'
+
+eɲɨrɨbai
+'i am hungry'
+
+hokokɲɨrɨbau
+'she is hungry'
+
+ɲək ɲɨrɨbain
+'thou art hungry'
+
+əpə ɲɨrɨbap
+'we are hungry'
+
+ədɨr,ədɨl
+'true'
+
+əpə maka mupwe morauhwin
+'we later want to rest'
+
+əpo mapwe morauhwin
+'we are resting'
+
+@NOUNS
+micael ənən ərpeɲ
+'micael is a man'
+
+micael ənən ərmen
+'micael is a person'
+
+micael ənən ərmatok wak
+'micael is not a woman'
+
+lara okok ərmen wak
+'lara is not a man'
+
+lara okok ərmatok
+'lara she is a woman'
+
+ei ərmatok
+'i am a woman'
+
+hannah okok ərmatok
+'hannah is a woman'
+
+okok weroroikwi ərmatok
+'she is a young woman'
+
+ellie ənən weroroiɲi ərpen
+'ellie is a young man'
+
+ellie weroroini ərpen
+'ellie is a young man','ellie is a young-only-for-humans man'
+
+ellie weroroini ərmən
+'ellie is a young person'
+
+weroro inibərəhə
+'young grandson'
+
+biyec weroroici barahaicic
+'two single young grandsons'
+
+ecec biyec weroroici biyec
+'two single young male and female grandcildren'
+
+oho,ohobiyec
+'two of us'
+
+əpəihip
+'all of us'
+
+yopugiwab
+'good night'
+
+###################4
+@DEIXIS
+əgɨndək
+'here'
+
+ei yapwe əgɨndək
+'i sit here'
+
+okok kwapwe gandək
+'she sits there'
+
+aduk
+'outside'
+
+@VERBS
+lise kweatu aduk,lise kweatu adukh
+'lise stands outside'
+
+lise kwauci
+'lise came'
+
+lise kwauci numun
+'lise came inside'
+
+lise kworahain kwənak,lise kworahain kwonak
+'lise is walking away'
+
+lise kwotanumori,lise kwotanun mori
+'lise is walking back'
+
+ei yorhain yənak
+'i am walking away'
+
+ei yənak,ei yonak,ei yanak
+'i go'
+
+ei yanaki
+'i come'
+
+ei numbotik yənaki
+'i came yesterday'
+
+ei nuhut yinak,ei nuhut yənak
+'i come tomorrow'
+
+ei yəka inak 
+'i want to go'
+
+ei yəka ipwe
+'i want to stay'
+
+ei yati patrick
+'i see patrick'
+
+patrick nati ɲək
+'patrick sees thee'
+
+ei numbotik yati patrick
+'i saw patrick yesterday'
+
+lise kwati patrick
+'lise sees patrick'
+
+lise nuhut kuti patrick
+'lise will see patrick tomorrow'
+
+ei nuhut yitɨrin
+'i shall see thee tomorrow'
+
+nuhut yitɨrin patrick
+'i shall see thee tomorrow patrick'
+
+ei yaka iwok əber
+'i want to drink water'
+
+ei oku yawok əber
+'i am about to drink water'
+
+yawok əber
+'i drink water'
+
+ei yawo worigɨn
+'i eat food'
+
+ei yawo ekɨgn worigɨn
+'i eat my food'
+
+ei yəkən brady okudəkbuk,ei yəkən əkodəkbuk
+'i give this book to brady','i give this book'
+
+@NOUNS
+orubwaiwi bumep
+'many books'
+
+biobumep
+'two books'
+
+numbati bumep
+'four books'
+
+əkudə mundai cokwukwi book
+'this is not a small book'
+
+bərəhəbiwi bumep
+'black books'
+
+biwotuk bərəhəbiwi bumep
+'three black books'
+
+əpudə mundai bərəhəbipi cup
+'this is not a black paper'
+
+@VERBS
+ecidə biyec cyagure
+'those two are talking'
+
+brady nakɨri pok um ənenbaraim
+'brady told her something'
+
+brady nakɨri pon um ənenbaraim
+'brady told him something'
+
+brady nakɨri micael um ənenbaraim
+'brady told micael something'
+
+narik
+'he ask'
+
+eyarik mark mark naka wosik,eyarik mark mark nəkə wosik
+'i ask mark mark says well'
+
+eɲarik james james naka wosik
+'he asks and james says good'
+
+eik
+'I'
+
+ei yarikən
+'i ask him'
+
+ei yarikən naka wosik
+'i ask he says good'
+
+@NOUNS
+wab
+'dark','night'
+
+yopubi wab
+'good night'
+
+yopusi glas
+'good glass'
+
+yopukwi buk,yokukwi buk
+'good book'
+
+əkudə yopukwi ərmatok
+'this is a good woman'
+
+ənundək yopwini ərpen
+'this is a good man'
+
+lise kwani ira cani nəgacic yopugi ɲɨrɨk
+'lise and ira and cildren are a good family'
+
+biəbøs webøs
+'two nights'
+
+ɲɨrɨgəs
+'families'
+
+yapuhi ɲumina
+'good day' 
+
+worobaihi ɲuminegwix
+'many days'
+
+atux ɲumina
+'one day'
+
+bwie ɲuminegwix
+'two days'
+
+yapupwi ruahaip
+'good morning'
+
+atup ruahaip
+'one morning'
+
+biəs ruahaigwis
+'two mornings'
+
+atux harupa,atuh arupa
+'one cloth'
+
+bie harupwex,biex harupwex
+'two cloths'
+
+@VERBS
+ɲək ɲasu glas
+'you have the glass'
+
+@NOUNS
+əmøkəbøs
+'fingers'
+
+biøbøs əmøkəbøs
+'two findgers'
+
+atuk əmøkøb
+'one finger'
+
+arah
+'shoulder'
+
+atuh arah
+'one shoulder'
+
+bie əreh
+'two shoulders'
+
+micin
+'cest'
+
+ɲibɨr
+'stomac'
+
+əgəb
+'back'
+
+əgəb atyb
+'one back'
+
+ohokwibøs biəbøs agabøs
+'their two backs'
+
+mib
+'thigh'
+
+mib ətin,ətin mib
+'one thigh'
+
+biyec mibəhəs
+'two thighs'
+
+yəriP
+'leg','foot'
+
+atuP yəriP,atuP yəriP
+'one leg'
+
+biyeru yoruweruP
+'two legs'
+
+ohuregul
+'shin'
+
+biyec ohuregul
+'two shins'
+
+ahamit
+'calf','modified form of tongue'
+
+biyog ehepitog
+'two calves'
+
+ohorug
+'knee'
+
+ekibøs biebøs ohøribøs
+'my two knees'
+
+atøk nabep
+'one eye'
+
+biəs nabis
+'two eyes'
+
+atøx atax
+'one ear'
+
+bie hate
+'two ears'
+
+mugəs
+'nose'
+
+ekigəs mugas
+'my nose'
+
+biəgəs mugas
+'two noses'
+
+ohokigəs mugas
+'our noses'
+
+berəg
+'head'
+
+atuk berəg
+'one head'
+
+biəgəs berəgəs
+'two heads'
+
+nokwat
+'mouth'
+
+bwiyog nokwatog
+'two mouths'
+
+atup ehikau
+'one lip'
+
+biəs ehikəs
+'two lips'
+
+atux nau,atux nauP
+'one tooth'
+
+biərux narux
+'teeth'
+
+ekixnau
+'my tooth'
+
+nugur,nugul
+'jaw'
+
+atim nugur
+'one jaw'
+
+biyec nugugu,biyec nuguguP
+'two jaws'
+
+otum aham
+'one tongue'
+
+worubaipi ehep
+'many tongues'
+
+urukum,ulukum
+'heart'
+
+atum urukum
+'one heart'
+
+biyep urukwip
+'two hearts'
+
+ekinurukum
+'my heart'
+
+ənənin urukum
+'his heart'
+
+okokwi urukum
+'her heart'
+
+nugurirøb ehirøb
+'facial hair'
+
+berəgiløb ehiløb
+'hair'
+
+atubør ehibør
+'one hair'
+
+orubailøbi ehiløb
+'many hairs'
+
+ei yasu atubør ehibør
+'i have a single hair'
+
+atin ohurigur
+'neck'
+
+orubaici ohuriguP
+'many necks'
+
+yəməg
+'face'
+
+atuk yəməg
+'one face'
+
+ɲəkigyəməg
+'thy face'
+
+ɲəkig yəpugi yəməg
+'thy beautiful face'
+
+orubaigəsi yəməgəs
+'many faces'
+
+####################################5
+@NOUNS
+kukum mabuP
+'snow','fog come down'
+
+kukum aP
+'???'
+
+nuhut kukum omaimi mubuP
+'tomorrow white fog will come down tomorrow'
+
+ɲumanəgəs
+'cold (???)'
+
+eik manəgəs sanwe,ei manəgəs sanwe
+'i feel cold'
+
+əpə ɲumanəgəs sanuk
+'we all feel cold'
+
+mark ənən ɲumanəgəs sanun
+'mark feels field'
+
+lise okok ɲumanəgəs sanuk
+'lise feels cold'
+
+ɲək ɲumanəgəs sanin,ɲək manəgəs sanin
+'you (sg) feel cold'
+
+ipəihip ɲumanəgəs sanip
+'you (pl) all are cold'
+
+ipobiyo ɲumanəgəs sanip
+'you two (women) are cold'
+
+ipobiyom ɲumanəgəs sanip
+'you two (men) are cold'
+
+ohobiyoP ɲumanəgəs sanuP
+'we two (women) are cold'
+
+oməmbiəm ɲumanəgəs sanum
+'we two (men) are cold'
+
+ipemanəgəs sanip
+'are you all cold?'
+
+ədɨl ei ɲumanəgəs sanwe
+'yes i feel cold'
+
+ei numbotik ɲumanəgəs sanwe
+'i was cold yesterday','cant do this for tomorrow because we dont know whether it will be cold'
+
+nuhut ei ne udukemwøc juehəs aka ɲumanəgəs,nuhut eine udukemwøc ɲumanəgəs aka juehəs
+'i might be hot tomorrow'
+
+ei numbotik yəmene juehəs
+'i was hot yesterday'
+
+ei juehəs sanwe
+'i am hot'
+
+ɲək juehəs sanin
+'you are hot'
+
+ərpen ɲagak
+'person died'
+
+ərmatok kwagək
+'woman died'
+
+amapok kwagək
+'frog died'
+
+orubaiwi amaso wagək
+'many frogs died'
+
+nuhut orubaiwi amaso ugək,orubaiwi amaso ugək nuhut
+'many frogs will die tomorrow'
+
+orubaiwi amaso wagək numbotik
+'many frogs died yesterday'
+
+numbat tagək
+'dog dies'
+
+orubaigwi numbau gwagək
+'many dogs die'
+
+tatudə numbat tagək
+'that dog dies'
+
+orubaigwi numbau gwani amaso cyagək
+'many dogs and frogs die'
+
+ətudə numbat
+'this dog'
+
+ei yaniwos um numbat tugək,ei yaniwos sum numbat tugək
+'i do not want the dog to die'
+
+ei yaniwos um ɲə ɲugək,ei yaniwos um ɲək ɲugək
+'i do not want you to die'
+
+ei yakuri ɲək mare ɲugək
+'i want you to not die'
+
+ei yaka ɲə ɲənaki
+'i want you to come'
+
+ei yakuri ɲək ɲənaki agundək
+'i want you to come here'
+
+ei yakuri ɲə ɲukita neatu
+'i want you to stand'
+
+ei yekita ye yeatu
+'i want ???'
+
+patrick ɲəgita yeatu
+'stand up patrick'
+
+patrick hagupwe,patrick hagipwe
+'patrick sit down'
+
+patrick nərahain nanakwi əria natu,patrick nərahain nanaki əria natu
+'patrick falls on the ground'
+
+lise kwearik umon wis patrick əriə kwatu
+'lise waves her hand at patrick'
+
+lise kwearik arupa
+'lise waves the cloth'
+
+lise gənikwadai kwatu,lise ganikədai kwatu
+'lise already fell (a little bit ago)'
+
+eiyatu əriə ekiswis yowes
+'my hand is wounded'
+
+glas yowes
+'broken glass'
+
+eiyatu əriə ekinmib yowen
+'my thigh is wounded','my thigh doesnt work right'
+
+ekinmib əriger,ekinmib eriger
+'my thigh is (in pain)'
+
+ɲakinmib əriger
+'your thigh is in pain'
+
+əpək mənəpupurau
+'we are happy'
+
+ei yənəpupurau
+'i am happy'
+
+namudək
+'like that, thus'
+
+ei yəmənə wosik dəuk
+'i feel good today'
+
+ei yəmenek owiyakɨk dəuk
+'i feel bad today'
+
+ei yəmenek əruge hapweɲe
+'i feel sick'
+
+lara dəuk kwomene əruge hapweɲok
+'lara is sick today'
+
+glas wehisi
+'glass is empty'
+
+ɲibɨr wehibɨr
+'stomac is empty'
+
+eik ɲɨrɨbai,eik ɲørøbai
+'i am hungry'
+
+ənən ɲørøban
+'he is hungry'
+
+#################6
+
+@VERBS
+ce`nak
+'they go'
+
+ce`naki
+'they come'
+
+`nato
+'go up','go up tree/house/mountain'
+
+`natoi
+'come up','come up tree/house/mountain'
+
+nabəh
+'go down','go down from tree/house/mountain'
+
+nabəhi
+'come down','come down from tree/house/mountain'
+
+`narih
+'go around','go around mountain'
+
+`narihi
+'come around','come around mountain'
+
+@FUTURE,VERBS
+nuhut nɨr`ih
+'tomorrow they will go around'
+
+nuhut nu`to,nuhut nɨ`to
+'tomorrow they will go up'
+
+nuhut nɨbəh
+'tomorrow they will go down'
+
+ei nuhut ibəh yani lara
+'i will go down tomorrow and lara'
+
+nuhut cibəh
+'tomorrow they will go down'
+
+nuhut ohobiyo ubəh
+'tomorrow we two male and female will go down'
+
+nuhut əpək mubəh
+'tomorrow we all go down'
+
+nuhut ohobiyo ubəh
+'tomorrow we two females will go down'
+
+nuhut ohobiyo ubəh
+'tomorrow we two males will go down'
+
+nuhut ohobiyo ubəhi
+'tomorrow we two will come down'
+
+@NOUN
+mihig
+'hill'
+
+mihigəs
+'hills'
+
+atɨg weimog
+'one ridgetop'
+
+weimos
+'ridgetops'
+
+worubaigəsi weimos
+'many ridgetops'
+
+cato gani mihig
+'up the hill'
+
+cato gani weimog
+'up the ridgetop'
+
+ɲeyapurok
+'you skip'
+
+okokw kweyapurok
+'she skips'
+
+ipək .pata`haicɨrik pabəh,ipak patahaicɨrik pabəh
+'you slip and go down'
+
+#pronoun at end not allowed
+#reverse order (yato yarahaiɲ) not allowed
+
+ei .yata`haicɨrik yabəh,eik .yata`haicɨrik yabəh
+'I slipping go down'
+
+ei yarahaiɲ yato
+'I walking go up'
+
+ei yarahaiɲ yabəh
+'I walking go down'
+
+ei yarahaiɲ yenak
+'I walking go away'
+
+nuhut wak douk
+'not tomorrow today'
+
+ei yawic urupat
+'i go into house'
+
+ei yawici urupat
+'i come into house'
+
+ɲowici urupat
+'come into (this) house'
+
+ei yawicugu
+'i will go inside'
+
+ɲəbihi
+'come down'
+
+ei yabəhugu
+'i go down'
+
+ei kədə ibəhugu
+'i will come down later'
+
+@ADVERB
+kədə
+'later'
+
+ganikədai
+'a little bit ago'
+
+@VERBS
+ei kədə `yuwicugu
+'i will go inside later'
+
+ei yarahaiɲ yabəh worɨb
+'i go down to river'
+
+narahaiɲ nabəh worɨb
+'he goes down to river'
+
+ei yenə tɨtɨr yabəh worɨb
+'i run to river'
+
+ei yena tɨtɨr yena urupat
+'i run to house'
+
+ei yenatɨtɨr yenamogum ɲək
+'i am running to you'
+
+################7
+
+@VERBS
+numbotik yanilise wanak
+'????','yesterday?i?went?with?lise?'
+
+@ADVERBS
+numbokihi
+'day before yesterday'
+
+@VERBS
+numbokihi ei yani lise wowar gani car,numbokihi ei yani lise wowar kar
+'yesterday I and lise go_down_small_hill to car' 
+
+@NOUNS
+sakihəs,sakwihəs
+'stories'
+
+saki
+'story'
+
+eɲindək saki
+'this story'
+
+atin saki
+'one story'
+
+biyech sakihəs
+'two stories'
+
+@VERBS
+ei yakuri pe pum sakihəsimbaraim
+'i tell you stories'
+
+lara kwakurip luke um eɲindək saki,lara wagurip luke pum eɲindəs saki
+'lara tells luke this story'
+
+okokw kwadukwomech
+'lara knows the story'
+
+okokw kwakuriponum eɲindəs saki,okokw kwakuriponum eɲindəs saki
+'lara tells him this story'
+
+lara kwakuripok
+'lara tells her'
+
+lara kwakuriɲək
+'lara tells you'
+
+lara kwakuripeik
+'lara tells me'
+
+lara kwakuripo
+'she tells 3 women'
+
+kwakuripo
+'(she) tells 3 women'
+
+kwakuripwech
+'she tells (the story) to (a group of) people'
+
+kwakuripon
+'(she) tells 3 men'
+
+@NOUNS
+ərmom
+'men'
+
+ərmago
+'women'
+
+worubaiwi ərmago
+'many women'
+
+@VERBS
+ei yati ɲək
+'i see you'
+
+ɲək ɲati eik,ɲə ɲati eik
+'you see me'
+
+okokw kwati eik
+'she sees me'
+
+ənən nati eik
+'he sees me'
+
+əpə mati eik
+'we see you'
+
+əpək məyagure
+'we talk','we (incl. speaker) are conversing'
+
+ipək pəyagure
+'you (more than 3) are conversing'
+
+ɲək ɲəkuripweum yopuɲi saki,ɲək ɲəkuripweum saki yopuɲi
+'you tell me a good story'
+
+@NOUNS
+yopuyopuɲi ki
+'better story','very good story'
+
+ətɨhit numbat
+'huge dog'
+
+ətuh bowaiyuh
+'one road to mountain'
+
+worubaigwihih bowaigwirɨh
+'many roads to mountain'
+
+dɨbegi mihig
+'big mountain'
+
+ətihig mihig
+'big mountain'
+
+dɨbeni ermən
+'big man'
+
+dɨbeni ərpen
+'big man-person','big guy'
+
+dɨbegi ərmatok
+'big man'
+
+roagikw
+'old (female)'
+
+rowahew
+'old (females)'
+
+roagin
+'old (male)'
+
+orubaimi rowahem
+'many old females'
+
+@QUESTIONS,VERBS
+ənən əndək moyiniya
+'who is that (male)'
+
+ənəkudə moyikwiyə 
+'who is that (female)'
+
+ənechidə biyech moyichiyə
+'who are those two'
+
+ənechidə moyichiyə
+'who are those (two)'
+
+moyichiyə ənechidə
+'those (two) who are'
+
+ənəgɨndək marech
+'what is that?'
+
+ənəgɨndək marech
+'what are these?'
+
+echidə kihəs,echidək kihəs
+'these are keys'
+
+ənechidə marech muguhəs
+'what are these many things'
+
+əɲəɲəndək maren mugu
+'what is this one thing'
+
+ɲə ɲatəgɨr
+'you are much better'
+
+@NOUNS
+wit
+'door'
+
+@VERBS,QUESTIONS
+yatəgɨr wit
+'i come from behind door'
+
+kədək itəgɨr
+'i will go out later','i will become better later'
+
+itəgɨr kədək
+'i will go out later'
+
+kədə itəgɨrogu
+'i will come out later'
+
+yaurehw
+'container'
+
+yaureruhw
+'containers'
+
+@ADVERBS
+chokubɨr
+'take it easy','properly'
+
+@VERBS
+gamum ɲɨkɨriyen 
+'say it again'
+ 
+misuwech chokubɨr
+'hold it properly'
+
+ɲagure chokubɨr
+'speak slowly','speak quietly'
+
+ɲagure dɨbeg
+'say it quickly','say it loudly'
+
+ɲɨrahain chokubɨr
+'go slowly'
+
+pɨrahain chokubɨr
+'go slowly you all'
+
+urahain məbəh chokubɨr
+'we (two) walk go down slowly'
+
+mɨrahain məbəh chokubɨr
+'we (more than two) go down slowly'
+
+mɨrahain məbəh chokubɨr
+'lets go down slowly'
+
+@VERBS,IMPERATIVES
+ɲə hagupwe
+'sit down'
+
+ipə hagupwe
+'you all sit down'
+
+ɲə kwokwogɨn worigyɨn
+'eat food'
+
+ipə kwokwogɨn worigyɨn
+'eat food (you all)'
+
+kwokwober əber
+'drink water'
+
+ipə kwokwober əber
+'you all drink water'
+
+ɲəkare hagichuh
+'go to sleep'
+
+ipəkare hagichuh
+'you all go to sleep'
+
+ɲə kitayətu
+'stand up'
+
+ipə kitayətu
+'you all stand up'
+
+ɲukitak ɲeyatu,ɲeyatu ɲukitak
+'you stand up'
+
+pukitak peyatu
+'you all rise and stand'
+
+ei yəkitak
+'i go from sitting to standing'
+
+ei yeyatu
+'i stand'
+
+yətu
+'wait'
+
+ɲuminek eik
+'listen to me'
+
+puminek eik
+'you all listen to me'
+
+ɲowechik yaurehw
+'you close the dish'
+
+ənohudək yaurehw chyopuk
+'is this a dish?'
+
+ənohɨdək yaureruhw biyəruhw
+'are these also dishes?'
+
+ɲək wochiko yaurehw
+'you close the plate'
+
+ipək poichik yaurehw
+'you all close the plate'
+
+#############8
+
+cus wokaini roag
+'tree without leaves'
+
+cus sapwe gani roag
+'there are leaves on the tree'
+
+cusiɲi roag
+'leafy tree'
+
+bɨb
+'betel nut/tree'
+
+biebəs bɨbəs
+'two betel nuts'
+
+arogowkwit numbat
+'female dog'
+
+əbonit numbat
+'male dog'
+
+biyog arogomebig numbagw
+'two female dogs'
+
+biyog əbəbigw numbagw
+'two male dogs'
+
+biyog cokugwi arogomebig numbagw
+'two small female dogs'
+
+cokugwi biyog əbəbigw numbagw
+'two small male dogs'
+
+ei yasu cokuti bərəhəbiti numbat
+'i have a small black dog'
+
+nɨgat numbat
+'small dog, puppy'
+
+atɨr bur
+'one pig'
+
+nɨgar bur
+'small pig, piglet'
+
+cokuimi batowin
+'small baby'
+
+erməni batowin
+'male child'
+
+worubaici ermənic batowic
+'many male children'
+
+worubaiguhi buruguhw
+'many pigs'
+
+hatin pusi
+'one cat'
+
+worubaici pusihəs
+'many cats'
+
+mɨgac pusihəs
+'kittens'
+
+atin mɨgan pusi
+'one small baby cat','one small kitten'
+
+armir atir,arɨmir atir
+'one bird'
+
+worubaiguhi armiguhw
+'many birds'
+
+nɨgar armir
+'baby bird'
+
+armir rehibɨk
+'bird flies'
+
+yur
+'snake'
+
+atɨr yur
+'one snake'
+
+worubaigwi yuguhw
+'many snakes'
+
+yawunehw
+'gecko'
+
+woruirəhi yawunegwirɨh
+'many geckos'
+
+yawunehw kwapwe gani urupat
+'gecko stays at home'
+
+yawunehw hor gani nuag
+'gecko stays? in hole'
+
+yur rər gani nuag
+'snake stays inside hole'
+
+ei yorukw worubaici cus ekigbanəg
+'i will up bag with paper'
+
+banəg
+'bag'
+
+banəgəs 'bags'
+
+cus satukw ekigbanəg
+'papers sit in bag'
+
+numbat tor gani urupat
+'dog stays in house'
+
+əberber ganumun glas
+'water inside of glass'
+
+əberber marɨp
+'pot'
+
+yabwigw gwor marɨp
+'soup stays in saucepan'
+
+worubaisi marɨs
+'many saucepans'
+
+atɨp marɨp
+'one pan'
+
+atɨr yawiɲir
+'one centipede'
+
+worubaiguhwi yawiciguhw
+'many centipedes'
+
+biyoguhw yawiciguhw
+'two centipedes'
+
+atir ewu
+'one fish'
+
+biyoguhw eguhw
+'two fish'
+
+atɨr yuhurɨb
+'egg'
+
+atɨr yuhurɨb
+'egg'
+
+worubaibɨsi yuhurɨbɨs
+'many eggs'
+
+armirib yuhurɨb
+'bird egg'
+
+owət
+'chicken'
+
+orubaigwi owotogw
+'many chickens'
+
+owətib yuhurɨb
+'chicken egg'
+
+atin yebon
+'one wallaby'
+
+bieb yebəb
+'two wallabies'
+
+worubaibi yebəb
+'many wallabies'
+
+aborir
+'picture'
+
+aboriguh
+'pictures'
+
+urukur,urukul
+'bee'
+
+#############9
+
+@NOUNS
+arpec
+'friends'
+
+arpeɲin
+'male friend'
+
+arpeɲikw
+'female friend'
+
+belo
+'12-o-clock'
+
+belo wab
+'midnight'
+
+ɲumina belo
+'noon'
+
+@ADVERBS
+chopuk 
+'also'
+
+atin belo
+'one 12-o-clock'
+
+#"gani means there"
+#"gani means inside"
+@DEIXIS
+gani,ganik
+'there'
+
+əgundək
+'here'
+
+nəgundək
+'there'
+
+ganundək
+'over there'
+
+kihəs cakəs əgundək
+'keys lie here'
+
+kihəs necidə cakəs
+'keys lie near you'
+
+kihəs cacidə
+'keys lie near him'
+
+kihəs cakəs gandək
+'keys lie there'
+
+kihəs necidək
+'keys ??'
+
+buk onokudək cakəs
+'book lies ??'
+
+buk kwakwodək ənənasuwok
+'book near her he has it'
+
+@PHRASES
+mahw worigɨn jɨrɨg
+'after we finish eating'
+
+nusin ərpeɲ ginənak
+'is the news man gone?'
+
+nusin arpecin biyom gihənak
+'are the two news men gone?'
+
+radobice kwani luke gicənak
+'radobice and luke have gone'
+
+ərpecin
+'male friends'
+
+ərpeciw
+'female friends'
+
+okwokw kwani ənən
+'she and he'
+
+ənən nani okwokw
+'he and she'
+
+ohobiyohw 
+'we two'
+
+bo ədɨr
+'yes it's true'
+
+ei yaka iyagure
+'i want to talk','i want to ask'
+
+gibelo
+'it's time now'
+
+@TIME
+ganikədai
+'prior,before'
+
+sewok
+'prior,before'
+
+rougi bog
+'long pen'
+
+roubi ɲitəb
+'long time'
+
+banagi bog
+'short pen'
+
+banabi ɲitəb
+'short time'
+
+marəb ɲitəb
+'what time is it?'
+
+ei yana yenemour gani Washington
+'I work in Washington'
+
+ei yenemour gani urupat
+'i work in the house'
+
+#############10
+
+@QA
+katie ɲəɲə holiday wabɨr
+'katie (was) your holiday at your village'
+
+wosik ei yəna wabɨr
+'indeed i went to my village'
+
+katie ɲəɲə marec gani wabɨr
+'katie what did you do at your village?'
+
+ei yati yain nani yamo
+'i saw father and mother'
+
+ei cyopu yati yain nani yamo,ei cyopuk yati yain nani yamo
+'i too saw father and mother'
+
+ɲe ɲəɲə ɲati əməkainic
+'did you see your parents'
+
+ei yənak əne biye ɲuminegwih əria ata yatanamori charlottesville
+'i went for a few days then i returned to charlottesville'
+
+ei yəna yati ekin mohunin
+'i see my brother (and i am female)'
+
+ei yəna yati ekin cokunin mohunin
+'i see my little brother (and i am female)'
+
+ei yəna yati ekin cokunin awanin
+'i see my little brother (and i am a male)'
+
+ei yəna yati ekikw mohokwikw
+'i see my sister (and i am a male)'
+
+ei yəna yati ekikw cokukwikw awawikw
+'i see my little sister (and i am a female)'
+
+ei yəna yati ekiw orubaiwi mohwiyeriw wani awarihiw
+'i see many sisters and brothers (and i am a male)' 
+
+ei yəna yati ekiw orubaiwi mohwiyeriw wani mohohwim
+'i see many sisters and brothers (and i am a female)'
+
+#words for same-gendered siblings and different-gendered siblings?
+
+ɲə ɲasu amakuric batowic
+'how many children do you have?'
+
+ɲə ɲasu amakuriw bumep
+'how many books do you have?'
+
+ei yasu biyec batowic
+'i have two children'
+
+ei yasu ənəswisic batowic
+'i have five children','i have a hand of children'
+
+ei yasu ənəswis biwotukwiw mohwiyeriw
+'i have eight sisters (and i am male)','i have five and three sisters (and i am male)'
+
+ɲə ɲasu mohwiyeriw
+'do you have sisters?'
+
+ei mohwiyəriw wak
+'i do not have sisters (and i am male)'
+
+ei awarihiw wak
+'i do not have brothers (and i am female)'
+
+#not *ei yasu mohwiyəriw wak
+
+ɲəkic batowic marɨb ɲitəb cenokwarum
+'what time were your children born?'
+
+ənecidə marec ənec ənec,ənecidək marec ənec ənec
+'those what things-things','those are what things?'
+
+ecidə ənəgyəməg ənə ənec ənec
+'these are all different kinds of things'
+
+əɲeɲindək ɲawohwi mugu
+'the thing near you is a red thing'
+
+eɲində mareɲ mugu
+'what is this thing near me?'
+
+eɲeɲində radio
+'that is a radio'
+
+@NOUNS
+wabɨr
+'village'
+
+@VERBS
+ei moyok
+'i have had enough'
+
+akak ɲuwok ənəgɨn worigɨn cyopuk aka wak
+'do you want more food or not?'
+
+dok yopuɲi ɲumina
+'today is good','today is a good day'
+
+wah ataw
+'the sun is shining'
+
+wah
+'sun'
+
+wah juweh
+'sun is hot'
+
+worubaiwi kwərərihər wona wanaki gani atap yah
+'many cars are coming and going down there on the road'
+
+atuk kworohukw
+'one vehicle'
+
+yuruhwikw kworohukw
+'airplane','vehicle of the sky'
+
+kworohukw kworahain gani yuruhw utəg
+'plane walks (in the sky?)'
+
+yogikw kworohukw
+'vehicle of the sea'
+
+wilwil
+'bicycle'
+
+biyec wilwilahəs
+'two bicycles'
+
+utəruh
+'grass'
+
+banarəhi utəruh
+'short grass'
+
+rourihi utəruh
+'long grass'
+
+cokuhwi uto
+'small blade (of crass)'
+
+banani ermən
+'short man'
+
+barakwi ermatokw
+'short woman'
+
+bweiwogw
+'steps'
+
+atapikw bweiwogw
+'stairs of a (road/way)?'
+
+ei yərahain yato gani bweiwogw
+'I go up walking on the stairs'
+
+əminəb bakis babuh
+'ground rests down','the ground is sloped'
+
+numbat tani babokainic biyec
+'dog with (its) grandparents'
+
+kwakudə ermatokw kwanaki
+'that woman comes to us'
+
+kwakudə ermatokw kworahain kwonak
+'that woman goes away from us'

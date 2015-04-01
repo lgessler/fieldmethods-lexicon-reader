@@ -1,0 +1,187 @@
+cus wokaini roag
+'tree without leaves'
+
+cus sapwe gani roag
+'there are leaves on the tree'
+
+cusiɲi roag
+'leafy tree'
+
+bɨb
+'betel nut/tree'
+
+biebəs bɨbəs
+'two betel nuts'
+
+arogowkwit numbat
+'female dog'
+
+əbonit numbat
+'male dog'
+
+biyog arogomebig numbagw
+'two female dogs'
+
+biyog əbəbigw numbagw
+'two male dogs'
+
+biyog cokugwi arogomebig numbagw
+'two small female dogs'
+
+cokugwi biyog əbəbigw numbagw
+'two small male dogs'
+
+ei yasu cokuti bərəhəbiti numbat
+'i have a small black dog'
+
+nɨgat numbat
+'small dog, puppy'
+
+atɨr bur
+'one pig'
+
+nɨgar bur
+'small pig, piglet'
+
+cokuimi batowin
+'small baby'
+
+erməni batowin
+'male child'
+
+worubaici ermənic batowic
+'many male children'
+
+worubaiguhi buruguhw
+'many pigs'
+
+hatin pusi
+'one cat'
+
+worubaici pusihəs
+'many cats'
+
+mɨgac pusihəs
+'kittens'
+
+atin mɨgan pusi
+'one small baby cat','one small kitten'
+
+armir atir,arɨmir atir
+'one bird'
+
+worubaiguhi armiguhw
+'many birds'
+
+nɨgar armir
+'baby bird'
+
+armir rehibɨk
+'bird flies'
+
+yur
+'snake'
+
+atɨr yur
+'one snake'
+
+worubaigwi yuguhw
+'many snakes'
+
+yawunehw
+'gecko'
+
+woruirəhi yawunegwirɨh
+'many geckos'
+
+yawunehw kwapwe gani urupat
+'gecko stays at home'
+
+yawunehw hor gani nuag
+'gecko stays? in hole'
+
+yur rər gani nuag
+'snake stays inside hole'
+
+ei yorukw worubaici cus ekigbanəg
+'i will up bag with paper'
+
+banəg
+'bag'
+
+banəgəs 'bags'
+
+cus satukw ekigbanəg
+'papers sit in bag'
+
+numbat tor gani urupat
+'dog stays in house'
+
+əberber ganumun glas
+'water inside of glass'
+
+əberber marɨp
+'pot'
+
+yabwigw gwor marɨp
+'soup stays in saucepan'
+
+worubaisi marɨs
+'many saucepans'
+
+atɨp marɨp
+'one pan'
+
+atɨr yawiɲir
+'one centipede'
+
+worubaiguhwi yawiciguhw
+'many centipedes'
+
+biyoguhw yawiciguhw
+'two centipedes'
+
+atir ewu
+'one fish'
+
+biyoguhw eguhw
+'two fish'
+
+atɨr yuhurɨb
+'egg'
+
+atɨr yuhurɨb
+'egg'
+
+worubaibɨsi yuhurɨbɨs
+'many eggs'
+
+armirib yuhurɨb
+'bird egg'
+
+owət
+'chicken'
+
+orubaigwi owotogw
+'many chickens'
+
+owətib yuhurɨb
+'chicken egg'
+
+atin yebon
+'one wallaby'
+
+bieb yebəb
+'two wallabies'
+
+worubaibi yebəb
+'many wallabies'
+
+aborir
+'picture'
+
+aboriguh
+'pictures'
+
+urukur,urukul
+'bee'

@@ -1,0 +1,180 @@
+@NOUNS
+kukum mabuP
+'snow','fog come down'
+
+kukum aP
+'???'
+
+nuhut kukum omaimi mubuP
+'tomorrow white fog will come down tomorrow'
+
+ɲumanəgəs
+'cold (???)'
+
+eik manəgəs sanwe,ei manəgəs sanwe
+'i feel cold'
+
+əpə ɲumanəgəs sanuk
+'we all feel cold'
+
+mark ənən ɲumanəgəs sanun
+'mark feels field'
+
+lise okok ɲumanəgəs sanuk
+'lise feels cold'
+
+ɲək ɲumanəgəs sanin,ɲək manəgəs sanin
+'you (sg) feel cold'
+
+ipəihip ɲumanəgəs sanip
+'you (pl) all are cold'
+
+ipobiyo ɲumanəgəs sanip
+'you two (women) are cold'
+
+ipobiyom ɲumanəgəs sanip
+'you two (men) are cold'
+
+ohobiyoP ɲumanəgəs sanuP
+'we two (women) are cold'
+
+oməmbiəm ɲumanəgəs sanum
+'we two (men) are cold'
+
+ipemanəgəs sanip
+'are you all cold?'
+
+ədɨl ei ɲumanəgəs sanwe
+'yes i feel cold'
+
+ei numbotik ɲumanəgəs sanwe
+'i was cold yesterday','cant do this for tomorrow because we dont know whether it will be cold'
+
+nuhut ei ne udukemwøch juehəs aka ɲumanəgəs,nuhut eine udukemwøch ɲumanəgəs aka juehəs
+'i might be hot tomorrow'
+
+ei numbotik yəmene juehəs
+'i was hot yesterday'
+
+ei juehəs sanwe
+'i am hot'
+
+ɲək juehəs sanin
+'you are hot'
+
+ərpen ɲagak
+'person died'
+
+ərmatok kwagək
+'woman died'
+
+amapok kwagək
+'frog died'
+
+orubaiwi amaso wagək
+'many frogs died'
+
+nuhut orubaiwi amaso ugək,orubaiwi amaso ugək nuhut
+'many frogs will die tomorrow'
+
+orubaiwi amaso wagək numbotik
+'many frogs died yesterday'
+
+numbat tagək
+'dog dies'
+
+orubaigwi numbau gwagək
+'many dogs die'
+
+tatudə numbat tagək
+'that dog dies'
+
+orubaigwi numbau gwani amaso chyagək
+'many dogs and frogs die'
+
+ətudə numbat
+'this dog'
+
+ei yaniwos um numbat tugək,ei yaniwos sum numbat tugək
+'i do not want the dog to die'
+
+ei yaniwos um ɲə ɲugək,ei yaniwos um ɲək ɲugək
+'i do not want you to die'
+
+ei yakuri ɲək mare ɲugək
+'i want you to not die'
+
+ei yaka ɲə ɲənaki
+'i want you to come'
+
+ei yakuri ɲək ɲənaki agundək
+'i want you to come here'
+
+ei yakuri ɲə ɲukita neatu
+'i want you to stand'
+
+ei yekita ye yeatu
+'i want ???'
+
+patrick ɲəgita yeatu
+'stand up patrick'
+
+patrick hagupwe,patrick hagipwe
+'patrick sit down'
+
+patrick nərahain nanakwi əria natu,patrick nərahain nanaki əria natu
+'patrick falls on the ground'
+
+lise kwearik umon wis patrick əriə kwatu
+'lise waves her hand at patrick'
+
+lise kwearik arupa
+'lise waves the cloth'
+
+lise gənikwadai kwatu,lise ganikədai kwatu
+'lise already fell (a little bit ago)'
+
+eiyatu əriə ekiswis yowes
+'my hand is wounded'
+
+glas yowes
+'broken glass'
+
+eiyatu əriə ekinmib yowen
+'my thigh is wounded','my thigh doesnt work right'
+
+ekinmib əriger,ekinmib eriger
+'my thigh is (in pain)'
+
+ɲakinmib əriger
+'your thigh is in pain'
+
+əpək mənəpupurau
+'we are happy'
+
+ei yənəpupurau
+'i am happy'
+
+namudək
+'like that, thus'
+
+ei yəmənə wosik dəuk
+'i feel good today'
+
+ei yəmenek owiyakɨk dəuk
+'i feel bad today'
+
+ei yəmenek əruge hapweɲe
+'i feel sick'
+
+lara dəuk kwomene əruge hapweɲok
+'lara is sick today'
+
+glas wehisi
+'glass is empty'
+
+ɲibɨr wehibɨr
+'stomach is empty'
+
+eik ɲɨrɨbai,eik ɲørøbai
+'i am hungry'

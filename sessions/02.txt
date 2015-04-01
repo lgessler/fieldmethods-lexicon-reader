@@ -1,0 +1,207 @@
+# ANTH 5401
+# Field Methods
+# Spring 2015, UVa
+
+@NOUNS
+numbotik,nombotik
+'yesterday'
+
+dəuk,dəok
+'today'
+
+nuhut
+'tomorrow'
+
+bien
+'day after tomorrow'
+
+mokədai
+'right now'
+
+echau
+'woolen string bag'
+
+wak
+'no'
+
+utaber
+'stones'
+
+echaurux
+'woolen string bags'
+
+@THREE
+.yegasɨtɨk e.chaurux
+'three string bags'
+
+@FOUR
+numbatiges e.chaurux
+'four woolen string bags'
+
+@VERBS
+wosik momənek
+'did you understand?'
+
+ei əmənek
+'I understand'
+
+eəpehip məmənek
+'we understand'
+
+yasu aichau,eiyasu aichau
+'I have the bag'
+
+əgədechau bərəhəbigi gani urobaihwi suruP
+'this black bag has many colors'
+
+michael nəneməp yəpogəni worigyɨn
+'michael made good food for us'
+
+michael nəneme yəpogəni worigyɨn
+'michael made good food for me'
+
+michael nənemok yəpogəni worigyɨn
+'michael made good food for her'
+
+michael nənemən yəpogəni worigyɨn
+'michael made good food for him'
+
+nənəworigyɨn
+'he made food'
+
+michael nuhut nənemaworigyɨn,michael nuhut nənəmaworigyɨn
+'michael will make good for us tomorrow'
+
+numbat tapwe
+'the dog sits'
+
+numbat nuhut tupwe
+'the dog will sit tomorrow'
+
+numbat teatu
+'the dog stands'
+
+ei yeatu
+'i stand'
+
+ɲe ɲeatu
+'you stand'
+
+yoyo kweatu
+'yoyo stands'
+
+yoyo kwapwe
+'yoyo is sitting'
+
+ei yapwe
+'i sit'
+
+ei nuhut ipwe
+'i will stay tomorrow'
+
+ɲe ɲapwe
+'you sit'
+
+nuhut ɲupwe
+'you will stay tomorrow'
+
+yoyo dok kwapwe
+'yoyo sits today'
+
+yoyo nuhut kupwe
+'yoyo will stay tomorrow'
+
+michael dok napwe
+'michael sits today'
+
+nuhut napwe
+'he will sit tomorrow'
+
+yoyo kweatu kwani numbat
+'yoyo and the dog stand'
+
+nuhut numbat teatu
+'tomorrow the dog is standing'
+
+ei nuhut yetu,ei nuhut yətu
+'i will stand tomorrow'
+
+ɲe nuhut ɲetu,ɲe nuhut ɲətu
+'thou shalt stand tomorrow'
+
+omokədai mark neatu
+'mark stands'
+
+mark nuhut chyopuk neatu
+'mark will also stand tomorrow'
+
+mark nuhut neatu
+'mark will stand tomorrow'
+
+mark dok chyopuk neatu
+'mark will also stand tomorrow'
+
+əpakim baraim gijɨrɨk dəuk
+'our discussion today is over'
+
+@POSSESSIVES
+ekigechau
+'my string bag'
+
+ɲakigechau
+'thy string bag'
+
+ənənigechau
+'his string bag'
+
+okokwigechau
+'her string bag'
+
+ohokwigechau
+'our string bag'
+
+ipeihip ipəpwigechau
+'string bag of all of you'
+
+ipəbiəm ipəpwigechau
+'your (2) string bag'
+
+omombiəm momigechau
+'their string bag'
+
+omombimətəm omomigechau
+'their (3) string bag'
+
+ohohwigechau
+'one ladies bag'
+
+owowigechau
+'two ladies bag'
+
+owobio owowigechau
+'the two ladies their bag','this bag belongs to the two ladies'
+
+erəməm hani erəmago echechigechau
+'the ladies and mens bag'
+
+michael ənənigechau
+'michaels string bag'
+
+@DEICTICS
+apudechup
+'this paper'
+
+asudechus
+'these papers'
+
+əgədechau
+'this bag'
+
+undautom
+'this stone'
+
+urobebi utaber
+'many stones'
+
+əberɨdɨ utaber
+'these stones'

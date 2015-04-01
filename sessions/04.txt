@@ -1,0 +1,393 @@
+@DEIXIS
+əgɨndək
+'here'
+
+ei yapwe əgɨndək
+'i sit here'
+
+okok kwapwe gandək
+'she sits there'
+
+aduk
+'outside'
+
+@VERBS
+lise kweatu aduk,lise kweatu adukh
+'lise stands outside'
+
+lise kwauchi
+'lise came'
+
+lise kwauchi numun
+'lise came inside'
+
+lise kworahain kwənak,lise kworahain kwonak
+'lise is walking away'
+
+lise kwotanumori,lise kwotanun mori
+'lise is walking back'
+
+ei yorhain yənak
+'i am walking away'
+
+ei yənak,ei yonak,ei yanak
+'i go'
+
+ei yanaki
+'i come'
+
+ei numbotik yənaki
+'i came yesterday'
+
+ei nuhut yinak,ei nuhut yənak
+'i come tomorrow'
+
+ei yəka inak 
+'i want to go'
+
+ei yəka ipwe
+'i want to stay'
+
+ei yati patrick
+'i see patrick'
+
+patrick nati ɲək
+'patrick sees thee'
+
+ei numbotik yati patrick
+'i saw patrick yesterday'
+
+lise kwati patrick
+'lise sees patrick'
+
+lise nuhut kuti patrick
+'lise will see patrick tomorrow'
+
+ei nuhut yitɨrin
+'i shall see thee tomorrow'
+
+nuhut yitɨrin patrick
+'i shall see thee tomorrow patrick'
+
+ei yaka iwok əber
+'i want to drink water'
+
+ei oku yawok əber
+'i am about to drink water'
+
+yawok əber
+'i drink water'
+
+ei yawo worigyɨn
+'i eat food'
+
+ei yawo ekɨgn worigyɨn
+'i eat my food'
+
+ei yəkən brady okudəkbook,ei yəkən əkodəkbuk
+'i give this book to brady','i give this book'
+
+@NOUNS
+orubwaiwi bumep
+'many boots'
+
+biobumep
+'two books'
+
+numbati bumep
+'four books'
+
+əkudə mundai chokwukwi book
+'this is not a small book'
+
+bərəhəbiwi bumep
+'black books'
+
+biwotuk bərəhəbiwi bumep
+'three black books'
+
+əpudə mundai bərəhəbipi chup
+'this is not a black paper'
+
+@VERBS
+echidə biyech chyagure
+'those two are talking'
+
+brady nakɨri pok um ənenbaraim
+'brady told her something'
+
+brady nakɨri pon um ənenbaraim
+'brady told him something'
+
+brady nakɨri michael um ənenbaraim
+'brady told michael something'
+
+narik
+'he ask'
+
+eyarik mark mark naka wosik,eyarik mark mark nəkə wosik
+'i ask mark mark says well'
+
+eɲarik james james naka wosik
+'he asks and james says good'
+
+eik
+'I'
+
+ei yarikən
+'i ask'
+
+ei yarikən naka wosik
+'i ask he says good'
+
+@NOUNS
+wab
+'dark','night'
+
+yokubi wab
+'good night'
+
+yokusi glas
+'good glass'
+
+yopukwi buk,yokukwi buk
+'good book'
+
+əkudə yopukwi ərmatok
+'this is a good woman'
+
+ənundək yopwini ərpen
+'this is a good man'
+
+lise kwani ira chani nəgachich yopugi ɲɨrɨk
+'lise and ira and children are a good family'
+
+biəbøs webøs
+'two nights'
+
+ɲɨrɨgəs
+'families'
+
+yapuhi ɲumina
+'good day' 
+
+worobaihi ɲumunegwix
+'many days'
+
+atux ɲumina
+'one day'
+
+bwie ɲɨmɨnegwix
+'two days'
+
+yapupwi ruahaip
+'good morning'
+
+atup ruahaip
+'one morning'
+
+biəs ruahaigwis
+'two mornings'
+
+atux harupa
+'one cloth'
+
+bie harupwex
+'two cloths'
+
+@VERBS
+ɲək ɲasu glas
+'you have the glass'
+
+@NOUNS
+əmøkəbøs
+'fingers'
+
+biøbøs əmøkəbøs
+'two findgers'
+
+atuk əmøkøb
+'one finger'
+
+arah
+'shoulder'
+
+atuh arah
+'one shoulder'
+
+bie əreh
+'two shoulders'
+
+michin
+'chest'
+
+ɲibyr
+'stomach'
+
+əgəb
+'back'
+
+əgəb atyb
+'one back'
+
+ohokwibøs biəbøs agabøs
+'their two backs'
+
+mib
+'thigh'
+
+mib ətin,ətin mib
+'one thigh'
+
+biyech mibəhəs
+'two thighs'
+
+yəriP
+'leg','foot'
+
+atuP yəriP,atuP yəriP
+'one leg'
+
+biyeru yoruweruP
+'two legs'
+
+ohuregøl
+'shin'
+
+biyech ohuregyl
+'two shins'
+
+ahamit
+'calf','back'
+
+biyog ehepitog
+'two calves'
+
+ohorug
+'knee'
+
+ekibøs biebøs ohøribøs
+'my two knees'
+
+atøk nabep
+'one eye'
+
+biəs nabis
+'two eyes'
+
+atøx atax
+'one ear'
+
+bie hate
+'two ears'
+
+mugəs
+'nose'
+
+ekigəs mugas
+'my nose'
+
+biəgəs mugas
+'two noses'
+
+ohokigəs mugas
+'our noses'
+
+berəg
+'head'
+
+atuk berəg
+'one head'
+
+biəgəs berəgəs
+'two heads'
+
+nokwat
+'mouth'
+
+bwiyog nokwatog
+'two mouths'
+
+atup ehikau
+'one lip'
+
+biəs ehikəs
+'two lips'
+
+atux nau
+'one tooth'
+
+biərux narux
+'teeth'
+
+ekixnau
+'my tooth'
+
+nugur,nugul
+'jaw'
+
+atim nugur
+'one jaw'
+
+biyech nugugu,biyech nuguguP
+'two jaws'
+
+otum aham
+'one tongue'
+
+worubaipi ehep
+'many tongues'
+
+urukum,ulukum
+'heart'
+
+atum urukum
+'one heart'
+
+biyep urukwip
+'two hearts'
+
+ekinurukum
+'my heart'
+
+ənənin urukum
+'his heart'
+
+okokwi urukum
+'her heart'
+
+nugurirøb ehirøb
+'facial hair'
+
+berəgiløb ehiløb
+'hair'
+
+atubør ehibør
+'one hair'
+
+orubailøbi ehiløb
+'many hairs'
+
+ei yasu atubør ehibør
+'i have a single hair'
+
+atin ohuregør
+'neck'
+
+orubaichi ohuriguP
+'many necks'
+
+yəməg
+'face'
+
+atuk yəməg
+'one face'
+
+ɲəkigyəməg
+'thy face'
+
+ɲəkig yəpugi yəməg
+'thy beautiful face'
+
+orubaigəsi yəməgəs
+'many faces'

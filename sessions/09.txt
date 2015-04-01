@@ -1,0 +1,126 @@
+@NOUNS
+arpec
+'friends'
+
+arpeɲin
+'male friend'
+
+arpeɲikw
+'female friend'
+
+belo
+'12-o-clock'
+
+belo wab
+'midnight'
+
+ɲumina belo
+'noon'
+
+@ADVERBS
+chopuk 
+'also'
+
+atin belo
+'one 12-o-clock'
+
+#"gani means there"
+#"gani means inside"
+@DEIXIS
+gani,ganik
+'there'
+
+əgundək
+'here'
+
+nəgundək
+'there'
+
+ganundək
+'over there'
+
+kihəs cakəs əgundək
+'keys lie here'
+
+kihəs necidə cakəs
+'keys lie near you'
+
+kihəs cacidə
+'keys lie near him'
+
+kihəs cakəs gandək
+'keys lie there'
+
+kihəs necidək
+'keys ??'
+
+buk onokudək cakəs
+'book lies ??'
+
+buk kwakwodək ənənasuwok
+'book near her he has it'
+
+@PHRASES
+mahw worigɨn jɨrɨg
+'after we finish eating'
+
+nusin ərpeɲ ginənak
+'is the news man gone?'
+
+nusin arpecin biyom gihənak
+'are the two news men gone?'
+
+radobice kwani luke gicənak
+'radobice and luke have gone'
+
+ərpecin
+'male friends'
+
+ərpeciw
+'female friends'
+
+okwokw kwani ənən
+'she and he'
+
+ənən nani okwokw
+'he and she'
+
+ohobiyohw 
+'we two'
+
+bo ədɨr
+'yes it's true'
+
+ei yaka iyagure
+'i want to talk','i want to ask'
+
+gibelo
+'it's time now'
+
+@TIME
+ganikədai
+'prior,before'
+
+sewok
+'prior,before'
+
+rougi bog
+'long pen'
+
+roubi ɲitəb
+'long time'
+
+banagi bog
+'short pen'
+
+banabi ɲitəb
+'short time'
+
+marəb ɲitəb
+'what time is it?'
+
+ei yana yenemour gani Washington
+'I work in Washington'
+
+ei yenemour gani urupat
+'i work in the house'

@@ -1,0 +1,151 @@
+@VERBS
+che`nak
+'they go'
+
+che`naki
+'they come'
+
+`nato
+'go up','go up tree/house/mountain'
+
+`natoi
+'come up','come up tree/house/mountain'
+
+nabəh
+'go down','go down from tree/house/mountain'
+
+nabəhi
+'come down','come down from tree/house/mountain'
+
+`narih
+'go around','go around mountain'
+
+`narihi
+'come around','come around mountain'
+
+@FUTURE,VERBS
+nuhut nɨr`ih
+'tomorrow they will go around'
+
+nuhut nu`to,nuhut nɨ`to
+'tomorrow they will go up'
+
+nuhut nɨbəh
+'tomorrow they will go down'
+
+ei nuhut ibəh yani lara
+'i will go down tomorrow and lara'
+
+nuhut chibəh
+'tomorrow they will go down'
+
+nuhut ohobiyo ubəh
+'tomorrow we two male and female will go down'
+
+nuhut əpək mubəh
+'tomorrow we all go down'
+
+nuhut ohobiyo ubəh
+'tomorrow we two females will go down'
+
+nuhut ohobiyo ubəh
+'tomorrow we two males will go down'
+
+nuhut ohobiyo ubəhi
+'tomorrow we two will come down'
+
+@NOUN
+mihig
+'hill'
+
+mihigəs
+'hills'
+
+atɨg weimog
+'one ridgetop'
+
+weimos
+'ridgetops'
+
+worubaigəsi weimos
+'many ridgetops'
+
+chato gani mihig
+'up the hill'
+
+chato gani weimog
+'up the ridgetop'
+
+ɲeyapurok
+'you skip'
+
+okokw kweyapurok
+'she skips'
+
+ipək .pata`haichɨrik pabəh,ipak patahaichɨrik pabəh
+'you slip and go down'
+
+#pronoun at end not allowed
+#reverse order (yato yarahaiɲ) not allowed
+
+ei .yata`haichɨrik yabəh,eik .yata`haichɨrik yabəh
+'I slipping go down'
+
+ei yarahaiɲ yato
+'I walking go up'
+
+ei yarahaiɲ yabəh
+'I walking go down'
+
+ei yarahaiɲ yenak
+'I walking go away'
+
+nuhut wak douk
+'not tomorrow today'
+
+ei yawich urupat
+'i go into house'
+
+ei yawichi urupat
+'i come into house'
+
+ɲowichi urupat
+'come into (this) house'
+
+ei yawichugu
+'i will go inside'
+
+ɲəbihi
+'come down'
+
+ei yabəhugu
+'i go down'
+
+ei kədə ibəhugu
+'i will come down later'
+
+@ADVERB
+kədə
+'later'
+
+ganikədai
+'a little bit ago'
+
+@VERBS
+ei kədə `yuwichugu
+'i will go inside later'
+
+ei yarahaiɲ yabəh worɨb
+'i go down to river'
+
+narahaiɲ nabəh worɨb
+'he goes down to river'
+
+ei yenə tɨtɨr yabəh worɨb
+'i run to river'
+
+ei yena tɨtɨr yena urupat
+'i run to house'
+
+ei yenatɨtɨr yenamogum ɲək
+'i am running to you'

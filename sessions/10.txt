@@ -1,0 +1,172 @@
+@QA
+katie ɲəɲə holiday wabɨr
+'katie (was) your holiday at your village'
+
+wosik ei yəna wabɨr
+'indeed i went to my village'
+
+katie ɲəɲə marec gani wabɨr
+'katie what did you do at your village?'
+
+ei yati yain nani yamo
+'i saw father and mother'
+
+ei cyopu yati yain nani yamo,ei cyopuk yati yain nani yamo
+'i too saw father and mother'
+
+ɲe ɲəɲə ɲati əməkainic
+'did you see your parents'
+
+ei yənak əne biye ɲuminegwih əria ata yatanamori charlottesville
+'i went for a few days then i returned to charlottesville'
+
+ei yəna yati ekin mohunin
+'i see my brother (and i am female)'
+
+ei yəna yati ekin cokunin mohunin
+'i see my little brother (and i am female)'
+
+ei yəna yati ekin cokunin awanin
+'i see my little brother (and i am a male)'
+
+ei yəna yati ekikw mohokwikw
+'i see my sister (and i am a male)'
+
+ei yəna yati ekikw cokukwikw awawikw
+'i see my little sister (and i am a female)'
+
+ei yəna yati ekiw orubaiwi mohwiyeriw wani awarihiw
+'i see many sisters and brothers (and i am a male)' 
+
+ei yəna yati ekiw orubaiwi mohwiyeriw wani mohohwim
+'i see many sisters and brothers (and i am a female)'
+
+#words for same-gendered siblings and different-gendered siblings?
+
+ɲə ɲasu amakuric batowic
+'how many children do you have?'
+
+ɲə ɲasu amakuriw bumep
+'how many books do you have?'
+
+ei yasu biyec batowic
+'i have two children'
+
+ei yasu ənəswisic batowic
+'i have five children','i have a hand of children'
+
+ei yasu ənəswis biwotukwiw mohwiyeriw
+'i have eight sisters (and i am male)','i have five and three sisters (and i am male)'
+
+ɲə ɲasu mohwiyeriw
+'do you have sisters?'
+
+ei mohwiyəriw wak
+'i do not have sisters (and i am male)'
+
+ei awarihiw wak
+'i do not have brothers (and i am female)'
+
+#not *ei yasu mohwiyəriw wak
+
+ɲəkic batowic marɨb ɲitəb cenokwarum
+'what time were your children born?'
+
+ənecidə marec ənec ənec,ənecidək marec ənec ənec
+'those what things-things','those are what things?'
+
+ecidə ənəgyəməg ənə ənec ənec
+'these are all different kinds of things'
+
+əɲeɲindək ɲawohwi mugu
+'the thing near you is a red thing'
+
+eɲində mareɲ mugu
+'what is this thing near me?'
+
+eɲeɲində radio
+'that is a radio'
+
+@NOUNS
+wabɨr
+'village'
+
+@VERBS
+ei moyok
+'i have had enough'
+
+akak ɲuwok ənəgɨn worigɨn cyopuk aka wak
+'do you want more food or not?'
+
+dok yopuɲi ɲumina
+'today is good','today is a good day'
+
+wah ataw
+'the sun is shining'
+
+wah
+'sun'
+
+wah juweh
+'sun is hot'
+
+worubaiwi kwərərihər wona wanaki gani atap yah
+'many cars are coming and going down there on the road'
+
+atuk kworohukw
+'one vehicle'
+
+yuruhwikw kworohukw
+'airplane','vehicle of the sky'
+
+kworohukw kworahain gani yuruhw utəg
+'plane walks (in the sky?)'
+
+yogikw kworohukw
+'vehicle of the sea'
+
+wilwil
+'bicycle'
+
+biyec wilwilahəs
+'two bicycles'
+
+utəruh
+'grass'
+
+banarəhi utəruh
+'short grass'
+
+rourihi utəruh
+'long grass'
+
+cokuhwi uto
+'small blade (of crass)'
+
+banani ermən
+'short man'
+
+barakwi ermatokw
+'short woman'
+
+bweiwogw
+'steps'
+
+atapikw bweiwogw
+'stairs of a (road/way)?'
+
+ei yərahain yato gani bweiwogw
+'I go up walking on the stairs'
+
+əminəb bakis babuh
+'ground rests down','the ground is sloped'
+
+numbat tani babokainic biyec
+'dog with (its) grandparents'
+
+kwakudə ermatokw kwanaki
+'that woman comes to us'
+
+kwakudə ermatokw kworahain kwonak
+'that woman goes away from us'
+

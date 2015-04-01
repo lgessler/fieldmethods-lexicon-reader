@@ -1,0 +1,292 @@
+@VERBS
+numbotik yanilise wanak
+'????','yesterday?i?went?with?lise?'
+
+@ADVERBS
+numbokihi
+'day before yesterday'
+
+@VERBS
+numbokihi ei yani lise wowar gani car,numbokihi ei yani lise wowar kar
+'yesterday I and lise go_down_small_hill to car' 
+
+@NOUNS
+sakihəs,sakwihəs
+'stories'
+
+saki
+'story'
+
+eɲindək saki
+'this story'
+
+atin saki
+'one story'
+
+biyech sakihəs
+'two stories'
+
+@VERBS
+ei yakuri pe pum sakihəsimbaraim
+'i tell you stories'
+
+lara kwakurip luke um eɲindək saki,lara wagurip luke pum eɲindəs saki
+'lara tells luke this story'
+
+okokw kwadukwomech
+'lara knows the story'
+
+okokw kwakuriponum eɲindəs saki,okokw kwakuriponum eɲindəs saki
+'lara tells him this story'
+
+lara kwakuripok
+'lara tells her'
+
+lara kwakuriɲək
+'lara tells you'
+
+lara kwakuripeik
+'lara tells me'
+
+lara kwakuripo
+'she tells 3 women'
+
+kwakuripo
+'(she) tells 3 women'
+
+kwakuripwech
+'she tells (the story) to (a group of) people'
+
+kwakuripon
+'(she) tells 3 men'
+
+@NOUNS
+ərmom
+'men'
+
+ərmago
+'women'
+
+worubaiwi ərmago
+'many women'
+
+@VERBS
+ei yati ɲək
+'i see you'
+
+ɲək ɲati eik,ɲə ɲati eik
+'you see me'
+
+okokw kwati eik
+'she sees me'
+
+ənən nati eik
+'he sees me'
+
+əpə mati eik
+'we see you'
+
+əpək məyagure
+'we talk','we (incl. speaker) are conversing'
+
+ipək pəyagure
+'you (more than 3) are conversing'
+
+ɲək ɲəkuripweum yopuɲi saki,ɲək ɲəkuripweum saki yopuɲi
+'you tell me a good story'
+
+@NOUNS
+yopuyopuɲi ki
+'better story','very good story'
+
+ətɨhit numbat
+'huge dog'
+
+ətuh bowaiyuh
+'one road to mountain'
+
+worubaigwihih bowaigwirɨh
+'many roads to mountain'
+
+dɨbegi mihig
+'big mountain'
+
+ətihig mihig
+'big mountain'
+
+dɨbeni ermən
+'big man'
+
+dɨbeni ərpen
+'big man-person','big guy'
+
+dɨbegi ərmatok
+'big man'
+
+roagikw
+'old (female)'
+
+rowahew
+'old (females)'
+
+roagin
+'old (male)'
+
+orubaimi rowahem
+'many old females'
+
+@QUESTIONS,VERBS
+ənən əndək moyiniya
+'who is that (male)'
+
+ənəkudə moyikwiyə 
+'who is that (female)'
+
+ənechidə biyech moyichiyə
+'who are those two'
+
+ənechidə moyichiyə
+'who are those (two)'
+
+moyichiyə ənechidə
+'those (two) who are'
+
+ənəgɨndək marech
+'what is that?'
+
+ənəgɨndək marech
+'what are these?'
+
+echidə kihəs,echidək kihəs
+'these are keys'
+
+ənechidə marech muguhəs
+'what are these many things'
+
+əɲəɲəndək maren mugu
+'what is this one thing'
+
+ɲə ɲatəgɨr
+'you are much better'
+
+@NOUNS
+wit
+'door'
+
+@VERBS,QUESTIONS
+yatəgɨr wit
+'i come from behind door'
+
+kədək itəgɨr
+'i will go out later','i will become better later'
+
+itəgɨr kədək
+'i will go out later'
+
+kədə itəgɨrogu
+'i will come out later'
+
+yaurehw
+'container'
+
+yaureruhw
+'containers'
+
+@ADVERBS
+chokubɨr
+'take it easy','properly'
+
+@VERBS
+gamum ɲɨkɨriyen 
+'say it again'
+ 
+misuwech chokubɨr
+'hold it properly'
+
+ɲagure chokubɨr
+'speak slowly','speak quietly'
+
+ɲagure dɨbeg
+'say it quickly','say it loudly'
+
+ɲɨrahain chokubɨr
+'go slowly'
+
+pɨrahain chokubɨr
+'go slowly you all'
+
+urahain məbəh chokubɨr
+'we (two) walk go down slowly'
+
+mɨrahain məbəh chokubɨr
+'we (more than two) go down slowly'
+
+mɨrahain məbəh chokubɨr
+'lets go down slowly'
+
+@VERBS,IMPERATIVES
+ɲə hagupwe
+'sit down'
+
+ipə hagupwe
+'you all sit down'
+
+ɲə kwokwogɨn worigyɨn
+'eat food'
+
+ipə kwokwogɨn worigyɨn
+'eat food (you all)'
+
+kwokwober əber
+'drink water'
+
+ipə kwokwober əber
+'you all drink water'
+
+ɲəkare hagichuh
+'go to sleep'
+
+ipəkare hagichuh
+'you all go to sleep'
+
+ɲə kitayətu
+'stand up'
+
+ipə kitayətu
+'you all stand up'
+
+ɲukitak ɲeyatu,ɲeyatu ɲukitak
+'you stand up'
+
+pukitak peyatu
+'you all rise and stand'
+
+ei yəkitak
+'i go from sitting to standing'
+
+ei yeyatu
+'i stand'
+
+yətu
+'wait'
+
+ɲuminek eik
+'listen to me'
+
+puminek eik
+'you all listen to me'
+
+ɲowechik yaurehw
+'you close the dish'
+
+ənohudək yaurehw chyopuk
+'is this a dish?'
+
+ənohɨdək yaureruhw biyəruhw
+'are these also dishes?'
+
+ɲək wochiko yaurehw
+'you close the plate'
+
+ipək poichik yaurehw
+'you all close the plate'

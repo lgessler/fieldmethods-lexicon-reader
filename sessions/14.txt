@@ -1,0 +1,199 @@
+@NOUNS
+yopuyopuhi ɲumina
+'very good day'
+
+@VERBS
+ɲətawur ɲeir 
+'?? hangs'
+
+##??
+botol ɲətawur ɲeir ɲəkib aməkəb
+'bottle hangs from your finger'
+
+ɲuhur botol ɲəɲaur ɲəkib aməkəb
+'hang the bottle from your finger'
+##??
+
+glas sətawur ɲəkib əməkəb
+'glass hangs from finger'
+
+ɲuwawur glas ɲəkib əməkəb
+'hang the glass from your finger'
+
+@COMMANDS,VERBS
+
+batowiɲ ɲecup
+'lie down'
+
+batowiɲ kitaɲinam skul
+'child get up and go to school'
+
+biyec skuləhəs
+'two schools'
+
+atin skul
+'one school'
+
+tuwagomieɲ baraɲ
+'language of white people'
+
+okwokw tuwagepiyerikw
+'she is a white lady'
+
+ənən tuwagepimin
+'he is a white man'
+
+biyo tuwagepiyer
+'two white men'
+
+biyəm tuwagəmi
+'two white ?females?'
+
+@MODAL VERBS,VERBS
+marepupwe kukita pənam skul
+'you cannot stay; you must go to school'
+
+marecupwe cukita cənam skul
+'the (kids) cannot stay; they must get up and go to school'
+
+marecupwe urupat cukita cənam skul
+'the kids cannot stay at school; they must get up and go to school'
+
+mare inoworigɨn
+'i cannot cook'
+
+#IRREALS
+ei mundai idɨkemec cene worigɨn uwe
+'i don't know how to cook food'
+
+ei mundai idɨkemec cene mour uwe
+'i never learned how to work','i don't know how to work'
+
+ei yokwo inəmour mamam
+'how do i work?'
+
+@IMPERATIVES, VERBS
+tati ɲə hagupwe
+'tati you sit'
+
+batowiɲ ɲə hagupwe
+'child you sit down'
+
+ərpeɲ ɲə hagupwe
+'sit down mate'
+
+ɲək ɲiti okwudə bukw
+'you look at this book'
+
+ɲe ɲaturukw
+'you see it (the book)'
+
+ei yaturukw
+'you see it (the book)'
+
+ei yatɨrɨs
+'i see it (the glass)'
+
+ei yati əpude cup
+'i see this paper'
+
+ɲe ɲati əpude cup
+'do you see this paper?'
+
+ei yaturup
+'i see it (this paper)'
+
+ɲe ɲati nɨmbat
+'do you see the dog?'
+
+ei yatɨrɨt
+'i see the dog'
+
+@NOUNS
+wosiwosik
+'kind of okay'
+
+@VERBS
+ei mundai itin nɨmbat uwe
+'i didnt see the dog'
+
+cənaki aka wak
+'will they come or not?'
+
+ei mundai yədukemec cənaki aka wak
+'i don't know whether they will come or not'
+
+oku cənaki
+'maybe they will come'
+
+oku nuhut juwehəs aka wak
+'maybe tomorrow will be hot or not'
+
+əmwinasu bukw 
+'who has the book?'
+
+okwokw kwasuokw aka wak
+'does she have the book or not?'
+
+@DICTATION
+ei yeyagureh eikiɲ baraɲ gani wabɨr.
+'i speak my language in the village'
+
+ruahaep yena mour
+'in the morning i do work'
+
+@NOUNS
+atin lotu
+'one church'
+
+biyec lotuhəs
+'two churches'
+
+utəberiɲ mour
+'cash crop work','work of stone'
+
+marə
+'we build'
+
+urusagw
+'houses'
+
+@VERBS
+mona,monak,moneik,monei
+'we do'
+
+manak
+'we go'
+
+atup wabigep
+'afternoon'
+
+biyəs wabigegwis
+'two evenings'
+
+wab atub
+'one night'
+
+biebəs wabəs
+'two nights'
+
+atup ruahaep
+'one morning'
+
+biyəs ruahaegwis
+'two mornings'
+
+marib
+'we clear','we clear (gardens) of bush'
+
+atuh rokonihw
+'one kaukau'
+
+bieruhw rokonieruhw
+'two kaukaus'
+
+mir
+'some plant'
+
+worubairi mir
+'lots of mir'

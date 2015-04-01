@@ -1,0 +1,223 @@
+@NOUN
+əberisglas
+'glass','glass of water'
+
+əsidək
+'this'
+
+@DEIXIS
+əberisglas əsidək
+'this (is a) glass of water'
+
+əberisglas sasidək
+'that (is a) glass of water'
+
+əgidə bog
+'this pen'
+
+gagidə bog
+'that pen'
+
+əpudə chup
+'this paper'
+
+papidə chup,papidəi chup
+'that paper'
+
+bog gani glas
+'pen and glass'
+
+glas sani bog
+'glass and pen'
+
+bogəs sani glas
+'pens and glass'
+
+orubaisi glas
+'more than one glass'
+
+ki atin,hatin ki
+'one key'
+
+orubaiti kihəs
+'many keys'
+
+biech kihəs
+'two keys'
+
+numbatich kihəs
+'four keys'
+
+@NOUN
+əberber ganiworɨp
+'water in river'
+
+worɨp
+'river'
+
+worɨbis
+'rivers'
+
+biəbis worɨbis
+'two rivers'
+
+bog
+'pen','wooden utensil'
+
+bogəs
+'pens'
+
+wis
+'hand'
+
+atɨs wis
+'one hand'
+
+biəs wis
+'two hands'
+
+əsidə wis
+'this hand'
+
+sasidə wis
+'that hand'
+
+rəgɨr 
+'arm'
+
+rəgɨr ɲani wis
+'arm and hand'
+
+rogu
+'arms'
+
+biyech rogu
+'two arms'
+
+ənɨs wis sani ənɨs wis
+'hand and other hand'
+
+atɨs wis
+'one hand'
+
+biyech rogu chyani bog
+'two arms and pen'
+
+əgɨsidə bogəs chyourɨm chus əgɨsi bogəs
+'these are pens for writing on paper'
+
+ekis wis sani ənənis wis,ekis wis sani ananis wis
+'my hand and his hand'
+
+barahən
+'grandson'
+
+barahaichich
+'two or more grandchildren'
+
+@FAMILY
+hannah kwapwe urupat
+'hannah is at home'
+
+hannah dok kwapwe urupat
+'hannah is at home right now'
+
+ellie napwe urupat
+'ellie is at home right now'
+
+ellie numbotik napwe urupat
+'ellie was home yesterday'
+
+hannah numbotik kwapwe urupat
+'hannah was at home yesterday'
+
+ellie napwe urupat nani hannah
+'ellie and hannah are home'
+
+hannah kwapwe urupat kwani ellie
+'hannah and ellie are home'
+
+hannah ellie ənənik mohokwik
+'hannah is ellie's sister'
+
+ellie ananik mohokwik hannah,ellie ənənik mohokwik hannah
+'ellie is hannah's brother','ellie his sister is hannah'
+
+hanna okokwi mohunin ellie
+'ellie is hannah's brother'
+
+ɲək ekinbabwen
+'thou art my grandfather'
+
+eɲɨrɨbai
+'i am hungry'
+
+hokokɲɨrɨbau
+'she is hungry'
+
+ɲək ɲɨrɨbain
+'thou art hungry'
+
+əpə ɲɨrɨbap
+'we are hungry'
+
+ədɨr,ədɨl
+'true'
+
+əpə maka mupwe morauhwin
+'we later want to rest'
+
+əpo mapwe morauhwin
+'we are resting'
+
+@NOUNS
+michael ənən ərpeɲ
+'michael is a man'
+
+michael ənən ərmen
+'michael is a person'
+
+michael ənən ərmatok wak
+'michael is not a woman'
+
+lara okok ərmen wak
+'lara is not a man'
+
+lara okok ərmatok
+'lara she is a woman'
+
+ei ərmatok
+'i am a woman'
+
+hannah okok ərmatok
+'hannah is a woman'
+
+okok weroro ikwi ərmatok
+'she is a young woman'
+
+ellie ənən weroro iɲi ərpen
+'ellie is a young man'
+
+ellie weroro ini ərpen
+'ellie is a young man','ellie is a young-only-for-humans man'
+
+ellie weroro ini ərmən
+'ellie is a young person'
+
+weroro ini bərəhə
+'young grandson'
+
+biyech weroro ichi barahaichich
+'two single young grandsons'
+
+echech biyech weroro ichi biyech
+'two single young male and female grandchildren'
+
+oho,ohobiyech
+'two of us'
+
+əpəihip
+'all of us'
+
+yopugiwa
+'good night'

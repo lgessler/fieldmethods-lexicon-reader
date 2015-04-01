@@ -1,0 +1,334 @@
+@NOUNS
+chup
+'leaf','sheet of paper'
+
+utom
+'stone'
+
+ɲegɨr 
+'stick'
+
+numbat
+'dog'
+
+rowem
+'tree','berry'
+
+chus
+'leaves'
+
+numbau
+'dogs'
+
+ɲegu
+'sticks'
+
+butum 
+'walking stick'
+
+orubaisi chus,orubaisi chu`us
+'pile of leaves','many leaves','more than four leaves'
+
+orubaipi rowep
+'many berries'
+
+giyech chɔk ɲegu
+'sticks'
+
+# ########
+@SMALL AND BIG
+# ########
+
+chɔkupi chup
+'small leaf'
+
+chɔkumi utom
+'small stone'
+
+chɔkuti numbat
+'small dog'
+
+chɔkwiti rowep
+'small berry'
+
+orubaisi chɔkusi chus
+'pile of two small leaves','pile of small papers'
+
+worubaiberi chɔkuberi utaber
+'many small stones'
+
+mani chaukoberi utaberi
+'(a)nd small stones'
+
+dɨbeti numbat
+'big dog'
+
+dɨbemi utom
+'big rock'
+
+# #######
+@ NUMBERS
+# #######
+
+@ ONE
+uta berɨn
+'one stone'
+
+atup chup,chup atup
+'one leaf'
+
+hatuk chup
+'one leaf'
+
+hatum utom
+'one rock'
+
+hatum rowem
+'one berry'
+
+@ TWO
+biəs chus
+'two leaves'
+
+biəber atum utaber
+'two stones'
+
+biyech ɲegu,ɲegu biyech
+'two sticks'
+
+biep rowep
+'two berries'
+
+biyog numbau
+'two dogs'
+
+biyog chɔkubi numbau
+'two small dogs'
+
+biəs chɔkusi chus
+'two small leaves'
+
+biəber chɔkuberi utaber
+'two small stones'
+
+@ THREE
+bisatuk chus
+'three sheets of paper'
+
+@ FOUR
+numbatis chus
+'four sheets of paper'
+
+mbatiber utaber
+'four stones'
+
+(nu)mbati numbau
+'four dogs'
+
+numbatis rowep
+'four berries'
+
+# ########
+@ DEICTICS
+# ########
+berəhe biti numbat
+'this dog here'
+
+thani edɨbiti numbat
+'that dog there'
+
+chɔkuti umaiti numbat
+'white dog in Lise's hand'
+
+ro sip rowep
+'this is a berry'
+
+# ##################
+@ COLORS AND CONJUNCTIONS
+# ##################
+umaisi chu`us sani umaiti numbat
+'white dog on/and white paper'
+
+numbat thani chup
+'dog and paper'
+
+pauhi rowep pani auhwi aropa hani pauhi chup
+'red berries and cloth and paper'
+
+pauhwhi chup
+'red paper'
+
+auhwi aropa
+'red cloth'
+
+atum mauhi rowem
+'one red berry'
+
+rowem mani chup
+'berry and leaf'
+
+chɔkuti numbat tanin chup
+'small dog and leaf'
+
+chup pani numbat
+'leaf and dog'
+
+hatum rowem mani biəber utaber
+'one fruit and two stones'
+
+biəber utaber bani hatum rowem
+'two stones and one fruit'
+
+nyegɨr nyani rowem
+'stick and fruit'
+
+roagiɲegɨr
+'stick of tree'
+
+umaipi chup
+'white paper'
+
+umaimi utom
+'white stone'
+
+akitohuipi chup
+'yellow paper'
+
+hauhi arupa
+'red paper'
+
+umaihi arupa
+'white material'
+
+berəhəbihi arupa
+'black material'
+
+berəhəbipi chup
+'black paper'
+
+abumbiti numbat
+'brown dog'
+
+berəbiti numbat
+'black dog'
+
+# ##########
+@ POSSESSION
+# ##########
+lise i arupa
+'the cloth of lise'
+
+lise okopwi arupa
+'the cloth of lise'
+
+# ########
+@ VERBS
+# ########
+lise wertu
+'lise stands'
+
+lise kwapwe
+'lise sits'
+
+ei yapwe
+'i sit'
+
+ɲe ɲeatu
+'you stand'
+
+ei yeatu
+'i stand'
+
+ohobiyo weatu
+'we two stand'
+
+ɲegɨr ɲetem
+'the stick sits'
+
+lise kwapwe
+'lise sits (on the table)'
+
+lise oichup
+'lise lies on the table'
+
+chup otem
+'the leaf is on the table'
+
+numbat teatu
+'the dog stands (on the table)'
+
+numbat tapwe
+'the dog sits on the table'
+
+numbat teichu
+'the dog lies on its side'
+
+utom motem
+'the rock is on the table'
+
+chup otem
+'the leaf is on the table'
+
+# #########
+@ KINSHIP
+# #########
+babwen
+'grandfather'
+
+asakip
+'granddaughter'
+
+barahanin
+'grandson'
+
+nidawik
+'daughter'
+
+barahaichich
+'grandchildren'
+
+# ##########
+@ PHRASES
+# ##########
+ɲowosik
+'how are you?'
+
+wawiget
+'afternoon'
+
+yene uprau mek
+'thank you'
+
+ekimbaraim
+'my language'
+
+epokimbaraim 
+'your language'
+
+anang kapaini baraim
+'he speaks a different language'
+
+ɲekɨrɨ pwe umbotom baraim ɲakɨri utom momam 
+'how do you say "stone" in your language?'
+
+gamum nɨkɨrien
+'say it again'
+
+wosik
+'good'
+
+nyekɨri tree momam
+'what is tree'
+
+# #######
+@ ???
+# #######
+
+orubaiberi chokuberi utaber
+'pile of small stones'
+
+chɔkoimi ɲegu
+'very long stick' #Why is chɔkoimi being applied here?
+
+bəraim jirɨk
+'UNKNOWN'

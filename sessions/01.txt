@@ -1,0 +1,345 @@
+//monolingual demonstration in bɨkiyip from jacob sonin
+//date=2015-02-02
+//he invites us to go see him
+
+chup
+'leaf'
+
+orubaisi chus
+'pile of leaves','many leaves','more than four leaves'
+
+chɔkupi chup
+'small leaf'
+
+orubaisi chɔkusi chus
+'brown and green leaf'
+
+chɔkumi utom
+'stone'
+
+mani chaukoberi utaberi
+
+orubai beri chokuberi utaber
+'stones' (small, medium-sized, big stone?)
+
+ɔtum chaukomi uton
+'small octahedral stone'
+
+chɔkoimi rɔagi gnegɨr
+'stick'
+
+giyech chɔk gnegu
+'sticks'
+
+chɔkoimi gnegu
+'very long stick'
+
+chup
+'sheet of paper'
+
+orubaisi chɔkusi chus
+'pile of small papers'
+
+utɔng
+'fist-sized stone'
+
+uteber
+
+atup chup
+'large flat leaf'
+
+chɔkumi utom
+'???'
+
+biəs chus
+'two leaves'
+
+bisatuk chus
+'three sheets of paper'
+
+numbatis chus
+'four sheets of paper'
+
+atup chup
+
+uta berɨn
+'one stone'
+
+biəber atum utaber
+'two stones'
+
+mbati ber utaber
+'four stones'
+
+numbat
+'dog'
+
+(nu)mbati numbau
+'four dogs'
+
+berəhe biti numbat
+'this dog here'
+
+thani edɨbiti numbat
+'that dog there'
+
+chɔkuti umaiti numbat
+'white dog in Lise's hand'
+
+urubaisi chu'us
+'pile of papers'
+
+umaisi chu'us sani umaiti numbat
+'white dog on white paper'
+
+atup chup
+'yellow paper'
+
+atup chup
+'brown paper'
+
+numbat thani chup
+'brown dog on brown paper'
+
+pauhi rowe pani auhwi aropa hani pauhi chup
+'pile of red berries on red cloth on red paper'
+
+pauhwhi chup
+'red paper'
+
+pani auhwi aropa
+'red cloth'
+
+atum mauhi rowem
+'a single red berry'
+
+lise wertu
+'lise stands'
+
+lise kwapwe
+'lise sits'
+
+ei yapwe
+'i sit'
+
+gne gne tu
+'you stand'
+
+ei yeyatu
+'i stand'
+
+ohobiyo weatu
+'we two stand'
+
+gnegɨr nyetem
+'the stick sits'
+
+lise kwapwe
+'lise sits (on the table)'
+
+lise oichup
+'lise lies on the table'
+
+chup otem
+'the leaf is on the table'
+
+numbat teatu
+'the dog stands (on the table)'
+
+numbat tapwe
+'the dog sits on the table'
+
+numbat teichu
+'the dog lies on its side'
+
+utom motem
+'the rock is on the table'
+
+chup otem
+'the leaf is on the table'
+
+dɨbeti numbat
+'big dog'
+
+chɔkuti numbat
+'small dog'
+
+dibemi utom
+'big rock'
+
+chɔkumi utom
+'small rock'
+
+bəraim jirɨk
+'UNKNOWN'
+
+babwen
+'grandfather'
+
+asakip
+'granddaughter'
+
+barahanin
+'grandson'
+
+nidawik
+'daughter'
+
+barahaichich
+'grandchildren'
+
+nyowosik
+'how are you?'
+
+wawiget
+'afternoon'
+
+yene uprau mek
+'thank you'
+
+//end of monolingual demonstration
+chup means 'leaf' and 'paper'.
+chus means two or more 'leaf/paper'
+numbatis chus means four leaves (or "two or more")
+numbat means 'dog'
+numbau means 'dogs'
+ekimbaraim 'my language'
+epokimbaraim 'your language'
+anang kapaini baraim 'he speaks a different language'
+
+nyekɨrɨ pwe umbotom baraim
+nyakɨri utom momam 'how do you say "stone" in your language?'
+
+butum 
+'walking stick'
+
+nyegɨr 
+'stick'
+
+nyegu 
+'sticks'
+
+biyech nyegu
+nyegu biyech
+'two sticks'
+
+gamum nɨkɨrien
+'say it again'
+
+atup chup
+chup atup
+'one leaf'
+
+byes chus 
+'two leaves'
+
+bisatuk chus
+'three leaves'
+
+numbatis chus
+'four leaves'
+
+hatum utom
+'one rock'
+
+orubaipi rowep
+'many berries'
+
+wosik
+'it is good'
+
+ro sip rowep
+'this is a berry'
+
+chɔkwiti rowep
+'small berry'
+
+atum rowem
+'small berry'
+
+biep rowep
+'two berries'
+
+hatum rowem
+'one berry'
+
+hatuk chup
+'one leaf'
+
+rowem mani chup
+'berry and leaf'
+
+chɔkuti numbat tanin chup
+'small dog and leaf'
+
+chup pani numbat
+'leaf and dog'
+
+biyog numbau
+'two dogs'
+
+biyog chɔkubi numbau
+'two small dogs'
+
+biəs chɔkusi chus
+'two small leaves'
+
+biəber chɔkuberi utaber
+'two small stones'
+
+worubai beri chɔkuberi utaber
+'many small stones'
+
+hatum rowem mani biəber utaber
+'one fruit and two stones'
+
+biəber utaber bani hatum rowem
+'two stones and one fruit'
+
+numbatis rowep
+'four berries'
+
+nyegɨr nyani rowem
+'stick and fruit'
+
+roaginyegɨr
+'stick of tree'
+
+nyekɨri tree momam
+'what is tree'
+
+rowem
+'tree'
+
+umaipi chup
+'white paper'
+
+umaimi utom
+'white stone'
+
+akitohuipi chup
+'yellow paper'
+
+hauhi arupa
+'red paper'
+
+umaihi arupa
+'white material'
+
+berəhəbihi arupa
+'black material'
+
+berəhəbipi chup
+'black paper'
+
+abumbiti numbat
+'brown dog'
+
+berəbiti numbat
+'black dog'
+
+lise i arupa
+'the cloth of lise'
+
+lise okopwi arupa
+'the cloth of lise'
