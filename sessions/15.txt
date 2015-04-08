@@ -1,0 +1,278 @@
+@ELICITATION, SENTENCES
+rowos seyetu gani urah
+'the trees sit on the way'
+
+mahiɲ ɲehiahi eɲində erepeɲ ɲenaki ɲeyapuro ɲabɨh gani atap wayag
+''
+
+nabɨh nər ga atap wayag
+''
+
+#or "gatap"
+mahiɲ ɲeyetu gani iruh ɲapwe ɲatɨrɨn gani atap
+'the animal stands on top stays ????'
+
+natɨk ənənit nɨmbat netem gani iruh ənənig bərəg na natɨsah neyetu
+''
+
+ei yesah ekig banag
+'i carry on shoulder'
+
+ei yagɨsah
+'i carry it (bag)'
+
+cabəh cɨr gani worɨb 
+'they fall down? into the river'
+
+nɨmbat tapaur tanaki worɨb ənən napwe ga iruh
+'the dog '
+
+hɨlɨkum əneɲ rowog
+'near this tree'
+
+napo nati nɨmbat tapaur tenaki
+''
+
+tapaur
+'(dog) swims'
+
+nani nɨmbat caki cetem gani iruh rowogit nat
+''
+
+rowogit nat
+'piece of a tree','piece of log','cut down tree'
+
+uroh
+'post','column in the room'
+
+cecuh cetem gani iruh rowogit nat
+'they sleep and sit on top of the log piece'
+
+#he rejects what he said, *weyetu
+amaso bio wakɨs atap
+'the two frogs sit near the surface'
+
+amasou bio wakɨs əgɨnə atap
+'the two frogs stay on the ground'
+
+ecec biec capwe gani iruh rowogit nat
+'they two sit on top of the log piece'
+
+nɨmbat tani batowiɲ capwe gani iruh rowogit nat
+'the dog and the child stay near the top of the log-piece'
+
+nɨmbat tecuh takɨs
+'dog sleeps stays'
+
+batowiɲ ɲehɨr amapok ɲasuok gani iruh
+''
+
+wis ananis wis
+'hand his hand'
+
+naka nuwacə amapok kunak
+'he wants to throw the frog will go'
+
+nuwacə
+'he will throw the frog'
+
+dəbeiwi amasou biou wani nɨgau
+'the two frogs with the baby frogs'
+
+nɨgau
+'baby frogs'
+
+capwe gani atap əmənəb
+''
+
+capwe catɨrɨgɨn
+'they sit they see it (the place)'
+
+ənokw cokukwi kwotau əgɨnə atap
+''
+
+gi jɨrɨg
+'it is finished'
+
+ei yakɨripep um eikiɲ boraɲ
+'i teach my language (to all of you)'
+
+ɲə ɲakɨripop um ɲəkiɲ boraɲ
+'you teach us your language'
+
+james nakɨriɲək um ananiɲ boraɲ
+'james teaches you his language'
+
+ənən nakɨripeik um ananiɲ boraɲ
+'james teaches me his language'
+
+okwokw kwakɨripohobioh um okwokwiɲ boraɲ
+'she teaches us two her language'
+
+ənən nakɨripohobioh um ənəniɲ boraɲ
+'he teaches us us two his languages'
+
+ənən nakɨripipobiec um ənəniɲ boraɲ
+'he teaches the two (male and female) his languages'
+
+@PRNOUNS
+ipobiyom
+'you two males'
+
+ipobiyo
+'you two females'
+
+ipobiyec
+'you two (male and female)'
+
+owobiyoh hapwe
+'us two women stay'
+
+omom biyəm hapwe
+'us two men'
+
+oho biyoh wapwe
+'us two men stay (or man and female?)'
+
+oho biec wapwe
+'us two (male and female) stay'
+
+oho wapwe
+'we two stay'
+
+əpə bicetiɲ mapwe
+'we three (mixed gender) stay'
+
+əpə biwotukw mapwe
+'we three (female) stay'
+
+ipə pani eik mapwe
+'they and i we sit'
+
+ei yakɨripom eikiɲ boraɲ
+'i tell the women my language'
+
+ei yakɨripoum eikiɲ boraɲ
+'i tell the men my language'
+
+ei yarau ɲəkiɲ boraɲ
+'i learned your language'
+
+ei oku inak gani papua new guinea um ɲirau ɲəkiɲ boraɲ
+'when i go to papua new guinea i will learn your language'
+
+ei yaka inak gani papua new guinea um ɲirau ɲəkiɲ boraɲ
+'i want to go to papua new guinea and i will learn your language'
+
+ei yaka inak gani papua new guinea um idɨkem ɲəkiɲ boraɲ
+'i want to go to papua new guinea and i will know your language'
+
+curuwep əgɨndək ip yowep ka ina papua new guinea um yuwo yopupi curuwep
+'when i go to papua new guinea i will eat good fruit'
+
+curuwep
+'fruit'
+
+rowep
+'fruit'
+
+oub
+'coconut'
+
+yaribi oub
+'dry coconut'
+
+watakibi oub
+'fresh coconut','not-dry-yet coconut'
+
+yowiɲi batowiɲ əməkekw mare kukwen worigɨn
+'bad boy his mother will not give him food'
+
+ənən mare ɲuminerigəs əməkekw mare wukən worigɨn
+'if he does not listen his mother will not give him food'
+
+okwokw mare kwuminerigəs əməkekw mare kukwokw worigɨn
+'if she does not listen her mother will not give her food'
+
+əməkwekw
+'father's brother's wife','auntie','mother's sister'
+
+yaiɲ
+'my father'
+
+yamo
+'my mother'
+
+ɲaken
+'father's brother'
+
+wawen
+'mother's brother'
+
+ɲəkin ɲaken wosik
+'is your father okay?'
+
+ekiɲ yaiɲ wosik
+'my father is okay'
+
+#??
+ɲəkikw əməkwekw wosik
+'is your mother okay?'
+
+eikikw əməkekw
+'my mother'
+#??
+
+mehinin
+'my brother's boychild'
+
+mehikwikw
+'my brother's girlchild'
+
+nuganin
+'my sister's boychild','your boychild'
+
+nugawikw
+'my sister's girlchild','your girlchild'
+
+makikw
+'mother's brother's wife','father's sister'
+
+erematokw
+'wife'
+
+eremən
+'man','friend','mate'
+
+ereminin
+'husband'
+
+ei yasu biəs wis
+'i have two hands'
+
+eikihw roguhw biyec
+'i have two arms'
+
+eikis wis bies
+'i have two hands'
+
+#not ei yasu 
+ei ətɨg bərəg
+'i one head'
+
+əpə atɨg bərəg
+'we have one head','we have the same fate'
+
+#not accepted: ənənirɨhw bɨbirɨhw narɨhw
+ənənirɨhw narɨhw bərəhəbirɨhw
+'his teeth are black'
+#he chews betel nuts. it's not red!
+
+waren
+'water spirit','mystical water snake'
+
+yuruhwin
+'god the creator'
+
+yuruhwin gani iruh
+'god is above'
