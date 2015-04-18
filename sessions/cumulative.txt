@@ -1018,10 +1018,10 @@ biyec mibəhəs
 yərihw
 'leg','foot'
 
-atuhw yərihw,atuhw yərihw
+atuhw yərɨhw,atuhw yərɨhw
 'one leg'
 
-biyeru yoruweruhw
+biyeru yaruwerɨhw
 'two legs'
 
 ohuregur
@@ -3199,3 +3199,89 @@ atuk əməgok
 
 worubaiwi əməgo
 'many flies'
+
+############EXTRA FROG STORY GATHERING
+
+@SENTENCES
+nɨmbat teyatu hurukum marɨp tati ganumun marɨp
+'dog stands near the pot and looks inside the po
+
+ərəs
+'bed'
+
+cecuhəsi ərəs
+'they sleep on it the bed','a bed on which to sleep'
+#relativized and modifying the bed
+#compare against worigɨnit urupat
+
+aun napwe gairuh
+'the moon stands up'
+
+arupah
+'article of clothing'
+
+arupweh
+'clothes'
+
+ececih arupweh hakəs əgənə atap əgəna əmənəb
+'their clothes here lie here on the ground'
+
+amapok kwapwe kwotem gairuh marɨp
+'the frog sits is on top of the pot'
+
+yaruwerɨh hakəs atap
+'the feet lie on the ground','the boots lie on the ground','legs lie below'
+
+batowiɲ ɲani nɨmbat cecuh cetem gani iruh
+'child together with dog they sleep rest upon on top'
+
+gani iruh arit
+'on the top of the bed'
+
+arit
+'raised surface'
+
+ərəs
+'bed','surface for sleeping'
+
+ananirɨh rowirɨhi yaruwerɨh hatau
+'his long legs hang'
+
+gani rowog napwe ɲeɲi
+'where the wood stays it stays that place','at wood it.stays (where it stays)'
+
+gani rowog napwe ɲeɲi
+'in the tree ????'
+
+arupweh copu hakəs
+'the clothes also lie'
+
+eɲəndə batowiɲ əneɲih arupweh hakəs atap
+'this child his clothes lie down below'
+
+batoiɲ ɲecuh gani iruh arit
+'the child lies down on the top ??'
+
+nɨmbat teyetu tanak na teyetu gairuh
+'the dog stands--he goes and stands on top'
+
+capwe catiki əgundə atap
+'they stay they look here below'
+
+cati marɨp peyetu pani yaruwerɨh ənəniruh
+'they see the saucepan stands with the shoes... his shoes'
+
+arupweh ənənih copuk cakəs atap
+'clothes his also lie below'
+
+urupat teyetu wəbɨr
+'the house stands over on the side'
+
+wəbɨr
+'side','part','on the side of something'
+
+wabɨr
+'village'
+
+wit copuk tapwe
+'the door also stands'
