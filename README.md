@@ -2,4 +2,14 @@ This is a dirty hack to solve a problem I had in a Linguistic Field Methods clas
 
 Not the most elegant solution, but it worked. 
 
-Todo: add Sam License
+## LICENSE
+
+This code is licensed under the Sam License.
+
+You can feel free to use this code for whatever you want, with the following stipulations:
+
+1. This code cannot be used in any product that is sold
+2. You must reference me if you use this code
+3. If you're currently in the class, don't use this code to cheat.
+
+Copyright Sam Prestwood, Luke Gessler, and Minh Nguyen, 2015
